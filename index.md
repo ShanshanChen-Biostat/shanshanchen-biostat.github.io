@@ -1,4 +1,4 @@
-## Welcome to Shanshan Chen's Github Page 
+# Welcome to Shanshan Chen's Github Page 
 
 I'm currently an associate professor in the Department of Biostatistics at Virginia Commonwealth University. My research interests lie in translating wearable sensing technologies into medical research, clinical practice and general health and wellness management.
 
@@ -6,11 +6,6 @@ I received my Ph.D. degree in Electrical Engineering from the University of Virg
 
 
 ### Gait and Movement Analysis
-
-
-# Header 1
-## Header 2
-### Header 3
 
 
 
