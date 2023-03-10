@@ -8,6 +8,6 @@ Sleep-Wake Cycle Detection for Activity Data Collected by Various Wearable Senso
 
 Multiple Sclerosis Severity Score (MSSS) Calculator
 
-Patient-reported Multiple Sclerosis Severity Score (P-MSSS) Calculator
+Patient-derived Multiple Sclerosis Severity Score (P-MSSS) Calculator
 
 Zip Codes to Socioeconomic Status Level
