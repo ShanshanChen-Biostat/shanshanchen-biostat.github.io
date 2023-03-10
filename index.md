@@ -17,13 +17,13 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ### Sleep Architecture Analysis 
 
-### Wearable Sensors 
+### Wearable Sensors Evaluation
 
 ### Gait & Movement 
 
-## Collaborative Research 
+## [Collaborative Research] (Collaborative.md)
 
-## Some Analysis Tools 
+## [Some Analysis Tools] (Tools.md)
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
