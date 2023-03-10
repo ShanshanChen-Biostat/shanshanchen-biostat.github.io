@@ -17,9 +17,10 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
+### Wearable Sensors 
+
 ### Gait & Movement 
 
-### Longitudinal Data Analysis 
 
 
 
