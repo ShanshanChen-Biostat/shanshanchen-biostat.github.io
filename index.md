@@ -23,7 +23,7 @@ I'm an associate professor in the Department of Biostatistics at Virginia Common
 
 
 ### Publications 
-A list of my publications can be found [Link text Here]([https://link-url-here.org](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en))
+A list of my publications can be found [here]([https://link-url-here.org](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en))
 
 ## Support or Contact
 For questions and inquires, please contact shanshan dot chen at vcuhealth dot org
