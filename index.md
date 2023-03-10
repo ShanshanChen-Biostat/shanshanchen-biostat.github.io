@@ -11,11 +11,11 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ## Research Areas
 
+### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
+
 ### [Actigraphy Analysis](Actigraphy.md)
 
-### Sleep Analysis 
-
-### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
+### Sleep Architecture Analysis 
 
 ### Wearable Sensors 
 
