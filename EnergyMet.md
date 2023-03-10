@@ -14,8 +14,18 @@ and portability and therefore fail to meet the requirements
 for long-term, remote, personal EE monitoring.
 
 ## Energy Metabolism 
-
-
+Human EE is comprised of various components and is infuenced by many factors. The largest component
+of human EE is resting EE, which is the energy required to carry out fundamental physiological functions,
+contributing 60–80% of the total daily EE. RMR is infuenced by various physiological characteristics, including gender, ethnicity,
+age, body composition, various metabolic syndromes, and gene variations.
+Additionally, resting EE responds to environmental stimuli, such as cold temperatures18,19, food intake
+and dietary composition20–24. Moreover, RMR drops signifcantly during sleep25 and varies by circadian phase26.
+A smaller, yet important component of human MR is activity-induced EE. Activities can be subdivided
+into two categories: non-exercise activity thermogenesis (NEAT) and volitional exercise28,29. NEAT includes
+occupational and leisure activities and any spontaneous activities, such as fdgeting and maintenance of posture.
+Because of these factors, REE needs to be assessed under controlled experimental conditions. By providing
+environmental control and real-time measurements over extended periods, Whole-room Indirect Calorimeer are the perfect tools to isolate
+the various components of EE.
 
 ## Whole-room Indirect Calorimeer 
 
