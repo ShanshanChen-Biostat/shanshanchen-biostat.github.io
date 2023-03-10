@@ -15,7 +15,7 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ### Sleep Analysis 
 
-### Whole-room Indirect Calorimeter, Energy Expenditure & Metabolism
+### Energy Metabolism & Whole-room Indirect Calorimeter
 
 ### Gait & Movement 
 
