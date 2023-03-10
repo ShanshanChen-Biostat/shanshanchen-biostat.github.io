@@ -25,5 +25,5 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
-## Support or Contact
+## Contact
 For questions and inquires, please contact shanshan dot chen at vcuhealth dot org
