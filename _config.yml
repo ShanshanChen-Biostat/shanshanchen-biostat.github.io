@@ -1,8 +1,10 @@
-title: [Shanshan Chen](https://shanshanchen-biostat.github.io/) 
+title: Shanshan Chen
 description: GitHub Homepage
 theme: jekyll-theme-leap-day
 include:
   - Actigraphy.md
   - EnergyMet.md
+  - Collaborative Research
+  - Tools for Researchers
   
   
