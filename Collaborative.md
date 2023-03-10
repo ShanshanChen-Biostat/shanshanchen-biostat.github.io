@@ -1,6 +1,6 @@
-----
-layout:default
-----
+---
+layout: default
+---
 
 As a collaborative biostatistician, 
 I have worked on various clinical studies where I also advocated and actively 
