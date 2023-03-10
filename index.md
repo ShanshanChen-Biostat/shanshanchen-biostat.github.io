@@ -21,9 +21,9 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ### Gait & Movement 
 
-
 ## Collaborative Research 
 
+## Some Analysis Tools 
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
