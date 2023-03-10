@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Wearable activity trackers, such as ActiGraphTM and Fitbit®, have been widely adopted in sleep
+Wearable activity trackers, 
+(e.g [ActiGraph](https://actigraphcorp.com/), [Fitbit®](https://www.fitbit.com/global/us/home)), 
+have been widely adopted by the public and researchers
 research in the last decade. Such trackers usually consist of a
 3-axis accelerometer which captures proper acceleration in
 the forward, lateral, and vertical directions at a sampling rate
@@ -12,5 +14,8 @@ vector magnitudes and aggregated minute by minute, using
 various research-based and proprietary algorithms, to give
 activity counts.
 
+## Relative Scales of Activity Counts 
 
-##
+Currently, there is no unified scale for these activity counts.
+
+## 
