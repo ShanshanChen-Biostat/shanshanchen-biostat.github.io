@@ -1,5 +1,4 @@
-name: Shanshan Chen
-title: null
+title: Shanshan Chen 
 markdown: kramdown
 url: "https://ShanshanChen-Biostat.github.io"
 description: GitHub Homepage
@@ -7,7 +6,7 @@ theme: jekyll-theme-leap-day
 github:
   repository_url: https://shanshanchen-biostat.github.io
 github:
-  is_project_page: false
+  is_project_page: FALSE
 include:
   - Actigraphy.md
   - EnergyMet.md
