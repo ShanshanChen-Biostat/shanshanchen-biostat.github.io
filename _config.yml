@@ -2,6 +2,8 @@ title: Shanshan Chen
 url: "https://ShanshanChen-Biostat.github.io"
 description: GitHub Homepage
 theme: jekyll-theme-leap-day
+github:
+  is_project_page: false
 include:
   - Actigraphy.md
   - EnergyMet.md
