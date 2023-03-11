@@ -12,7 +12,7 @@ which are often challenged by the ease of use, accessibility
 and portability and therefore fail to meet the requirements
 for long-term, remote, personal EE monitoring.
 
-## Energy Metabolism & Why Smart Wearable Sensors aren't Enough
+## Energy Metabolism 
 Human EE is comprised of various components and is infuenced by many factors. The largest component
 of human EE is resting EE, which is the energy required to carry out fundamental physiological functions,
 contributing 60–80% of the total daily EE. REE is infuenced by various physiological characteristics, including gender, ethnicity,
@@ -25,6 +25,8 @@ occupational and leisure activities and any spontaneous activities, such as fdge
 Because of these factors, REE needs to be assessed under controlled experimental conditions. By providing
 environmental control and real-time measurements over extended periods, Whole-room Indirect Calorimeer are the perfect tools to isolate
 the various components of EE.
+
+## Why Smart Wearable Sensors aren't Enough for Estimating Energy Expenditure 
 
 ## Whole-room Indirect Calorimeer 
 
