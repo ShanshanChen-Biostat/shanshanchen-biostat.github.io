@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[Homepage](index.md)
 
 Reduced energy expenditure (EE) in sedentary lifestyle has been linked to the dramatic rise in obesity, Type II
 diabetes, and heart disease in modern society. To study
