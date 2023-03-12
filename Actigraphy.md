@@ -18,4 +18,6 @@ activity counts.
 
 Currently, there is no unified scale for these activity counts.
 
-## 
+## Circadian Rhythm and Sleep-Wake Cycle Detection 
+
+## Diurnal Physical Activity vs Nocturnal Physical Activity 
