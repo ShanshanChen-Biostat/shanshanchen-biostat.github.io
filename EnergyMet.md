@@ -24,7 +24,10 @@ into two categories: non-exercise activity thermogenesis (NEAT) and volitional e
 occupational and leisure activities and any spontaneous activities, such as fdgeting and maintenance of posture.
 Because of these factors, REE needs to be assessed under controlled experimental conditions. By providing
 environmental control and real-time measurements over extended periods, Whole-room Indirect Calorimeer are the perfect tools to isolate
-the various components of EE.
+the various components of EE. 
+
+<img align="right" src="img/EE.png" alt="EE" width ="300" height = "600" >
+
 
 ## Why Smart Wearable Sensors aren't Enough for Estimating Energy Expenditure 
 
