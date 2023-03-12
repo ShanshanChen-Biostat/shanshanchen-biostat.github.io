@@ -4,9 +4,10 @@ layout: default
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
 
+I'm an Associate Professor in the [Department of Biostatistics](https://biostatistics.vcu.edu/), [School of Medicine](https://medschool.vcu.edu/), at [Virginia Commonwealth University](https://www.vcu.edu/). My research interests lie in translating wearable sensing and real-time technologies into medical research, clinical practice and general health and wellness management, via designing and statistical modeling of data from such systems. 
 
-
-I'm an Associate Professor in the [Department of Biostatistics](https://biostatistics.vcu.edu/), [School of Medicine](https://medschool.vcu.edu/), at [Virginia Commonwealth University](https://www.vcu.edu/). My research interests lie in translating wearable sensing and real-time technologies into medical research, clinical practice and general health and wellness management, via designing and statistical modeling of data from such systems.  
+## Conctact
+For questions and inquires, please contact shanshan dot chen at vcuhealth dot org
 
 
 ## Research Areas
@@ -23,10 +24,8 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 
 ## [Collaborative Research](Collaborative.md)
 
-### [I made some Shiny Apps for research](Tools.md)
+### [I made some R Shiny Apps for research](Tools.md)
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
-## Contact
-For questions and inquires, please contact shanshan dot chen at vcuhealth dot org
