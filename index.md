@@ -10,10 +10,10 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 shanshan dot chen at vcuhealth dot org
 
 ## Expertise
-Real-time Systems and Wearable Sensors <br>
-Time Series and Intensive Longitudinal Data Analysis<br> 
-Signal and Imaging Processing <br> 
-Statistical and Machine Learning
+Real-time Systems & Wearable Sensors <br>
+Time Series & Intensive Longitudinal Data Analysis<br> 
+Signal & Imaging Processing <br> 
+Statistical Modeling & Machine Learning
 
 ## Research Areas
 
