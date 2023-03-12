@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<img align="left" src="img/Me.png" alt="Me" width = "300" height = "300">
 
 
 
