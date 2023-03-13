@@ -20,4 +20,7 @@ Currently, there is no unified scale for these activity counts.
 
 ## Circadian Rhythm and Sleep-Wake Cycle Detection 
 
+
+
 ## Diurnal Physical Activity vs Nocturnal Physical Activity 
+Sleep-wake cycle detection is not only useful for anayzing circadian rhythms and computing certain sleep metrics. During the day, researchers are often interested in analyzing physical activity levels. 
