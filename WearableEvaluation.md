@@ -2,15 +2,15 @@
 layout: default
 ---
 
-1. [Characterizing Sources of Errors in Wearable Inertial Sensors] (https://www.researchgate.net/publication/262232911_Characterizing_and_Minimizing_Sources_of_Error_in_Inertial_Body_Sensor_Networks#fullTextFileContent)
+[Characterizing Sources of Errors in Wearable Inertial Sensors](https://www.researchgate.net/publication/262232911_Characterizing_and_Minimizing_Sources_of_Error_in_Inertial_Body_Sensor_Networks#fullTextFileContent)
 
-2. [Statistical Quantitification Sources of Errors in Wearable Inertial Sensors for Gait Analysis] (https://www.mdpi.com/1424-8220/17/3/466)
+[Statistical Quantitification Sources of Errors in Wearable Inertial Sensors for Gait Analysis](https://www.mdpi.com/1424-8220/17/3/466)
 
-3. [Quantifying Sources of Errors in Whole-Room Indirect Calorimeters] (https://www.nature.com/articles/s41598-020-71001-1)
+[Quantifying Sources of Errors in Whole-Room Indirect Calorimeters](https://www.nature.com/articles/s41598-020-71001-1)
 
-4. [Evaluating Information Added by Wearable Sensors] (https://ieeexplore.ieee.org/document/8771090)
+[Evaluating Information Added by Wearable Sensors](https://ieeexplore.ieee.org/document/8771090)
 
-5. [Characterizing Errors in Sleep-Wake Cycle Detection using Wearable Activitity Sensors] (https://arxiv.org/abs/2111.14960)
+[Characterizing Errors in Sleep-Wake Cycle Detection using Wearable Activitity Sensors](https://arxiv.org/abs/2111.14960)
 
 
-6. [Characterizing Sources of Errors in Wearable Glucose Sensors]
+[Characterizing Sources of Errors in Wearable Glucose Sensors]
