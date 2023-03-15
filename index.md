@@ -23,7 +23,7 @@ Statistical Modeling & Machine Learning
 
 ### Sleep Architecture Analysis 
 
-### [Wearable Sensors Evaluation](WearableEval.md)
+### [Wearable Sensors Evaluation](WearableEvaluation.md)
 
 ### Gait & Movement 
 
