@@ -10,7 +10,6 @@ github:
 include:
   - Actigraphy.md
   - EnergyMet.md
-  - WearableEvaluation.md
   - Collaborative Research
   - Tools for Researchers
   
