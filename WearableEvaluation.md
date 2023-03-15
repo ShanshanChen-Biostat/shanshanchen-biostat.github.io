@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Characterizing Sources of Errors in Wearable Inertial Sensors] (https://www.researchgate.net/publication/262232911_Characterizing_and_Minimizing_Sources_of_Error_in_Inertial_Body_Sensor_Networks#fullTextFileContent)
 
 ## [Statistical Quantitification Sources of Errors in Wearable Inertial Sensors for Gait Analysis] (https://www.mdpi.com/1424-8220/17/3/466)
