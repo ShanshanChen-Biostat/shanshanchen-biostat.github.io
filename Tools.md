@@ -4,7 +4,7 @@ layout: default
 
 Some R Shiny Apps for Researchers
 
-Sleep-Wake Cycle Detection for Activity Data Collected by Various Wearable Sensors
+CircaCP: Sleep-Wake Cycle Detection for Wearable Activity Data
 
 Multiple Sclerosis Severity Score (MSSS) Calculator
 
