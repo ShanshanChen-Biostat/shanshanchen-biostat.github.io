@@ -15,13 +15,7 @@ google_analytics: UA-37790622-1
     - name: "Research"
       url: "/EnergyMet.html/"
       weight: 2
-    - name: "Teaching"
-      url: ""
-      weight: 3
-    - name: "Others"
-      url: ""
-      weight: 4
-
+ 
 include:
   - Actigraphy.md
   - EnergyMet.md
