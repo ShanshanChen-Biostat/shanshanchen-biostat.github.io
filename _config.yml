@@ -8,7 +8,7 @@ github:
 github:
   is_project_page: FALSE
 google_analytics: UA-37790622-1
- main:
+menu:
     - name: "About"
       url: "/index.html/"
       weight: 1
