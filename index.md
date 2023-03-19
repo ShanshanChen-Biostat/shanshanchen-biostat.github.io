@@ -14,7 +14,7 @@ shanshan dot chen at vcuhealth dot org
 
 ## Expertise
 - Real-time Systems & Wearable Sensors <br>
-- Time Series, Intensive Longitudinal Data Analysis & Stochastic Process<br> 
+- Time Series, Intensive Longitudinal Data, Sequence Data & Stochastic Process<br> 
 - Signal & Imaging Processing <br> 
 - Statistical Modeling & Machine Learning
 
