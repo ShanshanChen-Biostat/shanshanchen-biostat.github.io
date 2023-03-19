@@ -3,7 +3,7 @@
 - [Python Installation on Mac OS](/Posts/PythonInstall.md)
 - Useful data cleaning tips in R
 
-#### Interesting Paradoxes
+#### Interesting Mathematical and Statistical Paradoxes
 - [Does one-child policy affect female-male ratio in China?](/Posts/OneChild.md)
 - Is a player's average the best predict for their seasonal score? Stein's Paradox 
 - Do conclusions based on group averages generalize to indivudals? Simpson's Paradox & Ecological Fallacy
