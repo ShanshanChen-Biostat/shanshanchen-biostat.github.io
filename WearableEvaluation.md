@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Methods for Quantifying Sources of Errors in Real-time Systems and Wearable Sensors
+## Methods for Quantifying Sources of Errors in Real-time Systems and Wearable Sensors
 
 ### [Characterizing Sources of Errors in Wearable Inertial Sensors](https://www.researchgate.net/publication/262232911_Characterizing_and_Minimizing_Sources_of_Error_in_Inertial_Body_Sensor_Networks#fullTextFileContent)
 
