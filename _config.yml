@@ -2,7 +2,7 @@ title: Shanshan Chen
 markdown: kramdown
 url: "https://ShanshanChen-Biostat.github.io"
 description: GitHub Homepage
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 github:
   repository_url: https://shanshanchen-biostat.github.io
 github:
