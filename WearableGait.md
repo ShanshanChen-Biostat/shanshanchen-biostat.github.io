@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Gait and Movement Analysis
 
 Gait analysis is an established research area for many medical and healthcare applications. These applications range from evaluating the efficacy of orthoses, prosthetics,
 surgical procedures, or rehabilitation treatment (e.g., for knee surgery or stroke recovery), through aiding diagnosis and
