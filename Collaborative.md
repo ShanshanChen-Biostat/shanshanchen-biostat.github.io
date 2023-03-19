@@ -17,7 +17,7 @@ reliable and reproducible evidence.
 
 Examples of collaborative research:
 
-#### - Six-Minute Walk and Activity Levels in Multiple Sclerosis Patients [paper](https://www.frontiersin.org/articles/10.3389/fneur.2021.698599/full)
+#### - Modeling of six-minute walk trajectory in multiple sclerosis [paper](https://www.frontiersin.org/articles/10.3389/fneur.2021.698599/full)
 #### - Walk capcity and physical activity levels in pediatric-onset multiple sclerosis [paper](https://n.neurology.org/content/99/19/e2161.abstract)
 #### - Keto-diet in multiple sclerosis [paper](https://jnnp.bmj.com/content/93/6/637.abstract)
 #### - Sleep duration in childhood obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
