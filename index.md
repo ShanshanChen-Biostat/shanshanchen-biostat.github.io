@@ -38,3 +38,5 @@ shanshan dot chen at vcuhealth dot org
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
+## Random Notes (blog.md)
+
