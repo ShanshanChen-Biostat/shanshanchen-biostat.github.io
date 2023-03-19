@@ -33,7 +33,7 @@ Statistical Modeling & Machine Learning
 ##  Collaborative Research
 
 ### [Collaborative Projects](Collaborative.md)
-### [Some R Shiny Apps for research](Tools.md)
+### [Some R Shiny Apps](Tools.md)
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
