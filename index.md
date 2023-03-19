@@ -24,16 +24,16 @@ shanshan dot chen at vcuhealth dot org
 
 - ### [Actigraphy Analysis](Actigraphy.md)
 
-### Sleep Architecture Analysis 
+- ### Sleep Architecture Analysis 
 
-### [Wearable Sensors Evaluation](WearableEvaluation.md)
+- ### [Wearable Sensors Evaluation](WearableEvaluation.md)
 
-### [Gait & Movement](WearableGait.md) 
+- ### [Gait & Movement](WearableGait.md) 
 
 ##  Collaborative Research
 
-### [Collaborative Projects](Collaborative.md)
-### [Some R Shiny Apps](Tools.md)
+- ### [Collaborative Projects](Collaborative.md)
+- ### [Some R Shiny Apps](Tools.md)
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
