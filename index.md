@@ -13,10 +13,10 @@ Ph.D, Electrical Engineering, University of Virginia -- 2013
 shanshan dot chen at vcuhealth dot org
 
 ## Expertise
-Real-time Systems & Wearable Sensors <br>
-Time Series,Intensive Longitudinal Data Analysis & Stochastic Process<br> 
-Signal & Imaging Processing <br> 
-Statistical Modeling & Machine Learning
+*Real-time Systems & Wearable Sensors <br>
+*Time Series,Intensive Longitudinal Data Analysis & Stochastic Process<br> 
+*Signal & Imaging Processing <br> 
+*Statistical Modeling & Machine Learning
 
 ## Research Areas
 
