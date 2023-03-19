@@ -9,7 +9,7 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 ## Education
 Ph.D, Electrical Engineering, University of Virginia -- 2013
 
-## Conctact
+## Contact
 shanshan dot chen at vcuhealth dot org
 
 ## Expertise
