@@ -21,7 +21,7 @@ Examples of collaborative research:
 #### - Walk capcity and physical activity levels in pediatric-onset multiple sclerosis [paper](https://n.neurology.org/content/99/19/e2161.abstract)
 #### - Keto-diet in multiple sclerosis [paper](https://jnnp.bmj.com/content/93/6/637.abstract)
 #### - Sleep duration in childhood obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
-#### - Effect of Thyroid Liothyroine on Cardiovascular and Metabolic System (Pharmacodynamic Study) [paper](https://www.frontiersin.org/articles/10.3389/fendo.2022.843539/full)
+#### - Effect of Thyroid Liothyroine on Cardiovascular and Metabolic System (a Pharmacodynamic Study) [paper](https://www.frontiersin.org/articles/10.3389/fendo.2022.843539/full)
 #### - Gait analysis for Diabetic Peripeheral Neuropathy [paper](https://ieeexplore.ieee.org/abstract/document/8771090/)
 #### - Sex-selective role of Angiopoietin-2 in obesity and metabolic syndrome [paper](https://www.sciencedirect.com/science/article/pii/S2212877822001570?via%3Dihub)
      In this project, we have investigated the role of Angiopoietin-2 in adipose tissue in combating obesity. 
