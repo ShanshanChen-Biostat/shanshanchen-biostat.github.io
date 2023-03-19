@@ -25,7 +25,7 @@ Statistical Modeling & Machine Learning
 
 ### [Wearable Sensors Evaluation](WearableEvaluation.md)
 
-### Gait & Movement 
+### [Gait & Movement](WearableGait.md) 
 
 ## [Collaborative Research](Collaborative.md)
 
