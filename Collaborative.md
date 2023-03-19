@@ -18,14 +18,16 @@ reliable and reproducible evidence.
 Examples of collaborative research:
 
 #### - Six-Minute Walk and Activity Levels in Multiple Sclerosis Patients [paper](https://www.frontiersin.org/articles/10.3389/fneur.2021.698599/full)
-#### - Physical Activity Levels in Pediatric Onset Multiple Sclerosis Patients
-
-#### - Pharmacodynamic Study on the Effect of Thyroid Liothyroine on Cardiovascular and Metabolic System [paper](https://www.frontiersin.org/articles/10.3389/fendo.2022.843539/full)
+#### - Walk capcity and physical activity levels in pediatric-onset multiple sclerosis [paper](https://n.neurology.org/content/99/19/e2161.abstract)
+#### - Keto-diet in multiple sclerosis [paper](https://jnnp.bmj.com/content/93/6/637.abstract)
+#### - Sleep duration in childhood obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
+#### - Effect of Thyroid Liothyroine on Cardiovascular and Metabolic System (Pharmacodynamic Study) [paper](https://www.frontiersin.org/articles/10.3389/fendo.2022.843539/full)
+#### - Gait analysis for Diabetic Peripeheral Neuropathy [paper](https://ieeexplore.ieee.org/abstract/document/8771090/)
 #### - Sex-selective role of Angiopoietin-2 in obesity and metabolic syndrome [paper](https://www.sciencedirect.com/science/article/pii/S2212877822001570?via%3Dihub)
-In this paper, we have investigated the role of Angiopoietin-2 in adipose tissue in combating obesity. 
+     In this project, we have investigated the role of Angiopoietin-2 in adipose tissue in combating obesity. 
 We found that this link is only significant in females, both in mice and a large human subjects cohort. 
 Interestingly, serum levels of Angiopoietin-2 in pre-and post-menopausal women are also significantly different. 
 This led us to examine the role of estrogen in Angiopoietin-2 transcription regulation in adipocytes, 
 and indeed Angiopoietin-2 is upregulated by estradiol.  
-#### - Sleep duration in childhood obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
+     
 
