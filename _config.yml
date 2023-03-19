@@ -16,6 +16,10 @@ sidebar:
       url: "/EnergyMet.html/"
       weight: 2
  
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 include:
   - Actigraphy.md
   - EnergyMet.md
