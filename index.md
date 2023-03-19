@@ -27,7 +27,7 @@ Statistical Modeling & Machine Learning
 
 ### [Gait & Movement](WearableGait.md) 
 
-## [Collaborative Research]
+##  Collaborative Research
 
 ### [Collaborative Projects](Collaborative.md)
 ### [Some R Shiny Apps for research](Tools.md)
