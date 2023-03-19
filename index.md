@@ -27,9 +27,10 @@ Statistical Modeling & Machine Learning
 
 ### [Gait & Movement](WearableGait.md) 
 
-## [Collaborative Research](Collaborative.md)
+## [Collaborative Research]
 
-### [I made some R Shiny Apps for research](Tools.md)
+### [Collaborative Projects](Collaborative.md)
+### [Some R Shiny Apps for research](Tools.md)
 
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
