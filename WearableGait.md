@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 Gait analysis is an established research area for many medical and healthcare applications. These applications range from evaluating the efficacy of orthoses, prosthetics,
