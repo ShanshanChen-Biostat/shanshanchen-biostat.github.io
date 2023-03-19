@@ -20,9 +20,9 @@ shanshan dot chen at vcuhealth dot org
 
 ## Research Areas
 
-### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
+- ### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
-### [Actigraphy Analysis](Actigraphy.md)
+- ### [Actigraphy Analysis](Actigraphy.md)
 
 ### Sleep Architecture Analysis 
 
