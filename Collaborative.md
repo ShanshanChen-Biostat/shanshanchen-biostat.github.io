@@ -27,5 +27,5 @@ We found that this link is only significant in females, both in mice and a large
 Interestingly, serum levels of Angiopoietin-2 in pre-and post-menopausal women are also significantly different. 
 This led us to examine the role of estrogen in Angiopoietin-2 transcription regulation in adipocytes, 
 and indeed Angiopoietin-2 is upregulated by estradiol.  
-#### Sleep duration in childhood obesity[paper](https://www.nature.com/articles/s41366-022-01140-0)
+#### Sleep duration in childhood obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
 
