@@ -5,11 +5,11 @@
 
 #### Interesting Paradoxes
 - [Does one-child policy affect female-male ratio in China?](/Posts/OneChild.md)
-- Stein's Paradox 
+- Is a player's average best predict for seasonal score? Stein's Paradox 
+- Do conclusions based on group averages generalize to indivudals? Simpson's Paradox & Ecological Fallacy
 - Lord's Paradox
-- Berkson's Paradox
-- Simpson's Paradox & Ecological Fallacy
-- Condocet's Praradox 
+- How does statistical regression results lie? Berkson's Paradox
+- Does aggregated votes from individuals reflect the majority's preference?Condocet's Praradox 
 - The Prosecutor's Fallacy
-- Conjunction Fallacy
+- Slippery Slpoe Fallcy and Conjunction Fallacy
 
