@@ -15,7 +15,7 @@ DFlong = DF %>% pivot_longer(cols = starts_with("Time_"),
 DF = data.table(DF)
 DF[, ID := ID[1], .(cumsum(!is.na(ID)))]
 ```
-- Filling in repeated entries 
+- Filling in repeated entries per each subject (only entered once for each subject)
 ```
 library(data.table)
 DF = data.table(DF)
