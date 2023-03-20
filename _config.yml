@@ -8,6 +8,7 @@ github:
 github:
   is_project_page: FALSE
 google_analytics: UA-37790622-1
+show_downloads: FALSE
 sidebar:
     - "About"
     - "Research"
