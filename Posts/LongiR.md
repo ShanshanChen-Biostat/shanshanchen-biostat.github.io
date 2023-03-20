@@ -19,6 +19,7 @@ DF[, ID := ID[1], .(cumsum(!is.na(ID)))]
 - Filling in repeated entries per each subject (only entered once for each subject)
 ```
 library(data.table)
+library(runner)
 DF = data.table(DF)
 DF = DF %>% group_by(ID) %>% mutate(Var = runner::fill_run(Var, run_for_first = T))
 ```
