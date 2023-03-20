@@ -11,7 +11,7 @@ applied more advantageous models, and multiple biomedical studies where I advoca
 #### - Modeling of Six-Minute Walk Trajectory in Multiple Sclerosis [paper](https://www.frontiersin.org/articles/10.3389/fneur.2021.698599/full)
 #### - Walk Capcity and Physical Activity Levels in Pediatric-Onset Multiple Sclerosis [paper](https://n.neurology.org/content/99/19/e2161.abstract)
 #### - Keto-diet in Multiple Sclerosis [paper](https://jnnp.bmj.com/content/93/6/637.abstract)
-#### - Sleep Duration in Childhood Obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
+#### - Sleep Metrics in Childhood Obesity [paper](https://www.nature.com/articles/s41366-022-01140-0)
 #### - Effect of Thyroid Liothyroine on Cardiovascular and Metabolic System (a Pharmacodynamic Study) [paper](https://www.frontiersin.org/articles/10.3389/fendo.2022.843539/full)
 #### - Gait Analysis for Diabetic Peripeheral Neuropathy [paper](https://ieeexplore.ieee.org/abstract/document/8771090/)
 #### - Sex-selective Role of Angiopoietin-2 in Obesity and Metabolic Syndrome [paper](https://www.sciencedirect.com/science/article/pii/S2212877822001570?via%3Dihub)
