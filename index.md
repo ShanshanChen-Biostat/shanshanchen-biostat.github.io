@@ -39,7 +39,7 @@ shanshan dot chen at vcuhealth dot org
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
 ## Teaching
-... and random thoughts on statisitcal pradoxes
+... and [random thoughts on statisitcal pradoxes](Teaching.md)
 
 ## Random Notes
 [Tips in R and Matlab programming](Posts.md) 
