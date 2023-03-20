@@ -10,3 +10,5 @@ layout: default
 
 - ### [Patient-derived Multiple Sclerosis Severity Score (P-MSSS) Calculator](https://shanshan-chen.shinyapps.io/p-msss_calculator/)
 
+- ### Oral Glucose Intolerance Test (OGTT) Analysis (AUC, Peak, and Fasting)
+
