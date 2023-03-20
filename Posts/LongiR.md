@@ -33,8 +33,12 @@ DF = DF%>% group_by(ID) %>% mutate(Day = dense_rank(Date))
 - Visualzing each subject's longitudinal data sequence
 ```
 library(nlme) ## trellis plot method
-GroupedDF <- groupedData(ref~Day|ID, data=DF, inner=~ToD)
+GroupedDF <- groupedData(ref~Day|ID, data=DF, inner=~Group)
 plot(GroupedDF, aspect=3)
+```
+or
+```
+ggplot(DF, aes(x, y, group =ID))+geom_line(col=ID) ## ggplot method
 ```
 
 - Aggregating repeated covariates from long format data
