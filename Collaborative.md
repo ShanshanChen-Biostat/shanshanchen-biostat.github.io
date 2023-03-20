@@ -2,20 +2,11 @@
 layout: default
 ---
 
-As a collaborative biostatistician, 
-I have worked on various clinical studies where I also advocated and actively 
-applied more advantageous models such as mixed-effects models. 
-Such models can handle repeated measures and missing data efficiently, 
-whilst capturing both factors of investigative interests (e.g. due to treatment, temporal changes, and disease status) 
-and random subject-to-subject variations simultaneously. 
+As a collaborative biostatistician, I have worked on various clinical studies where I advocated and actively 
+applied more advantageous models, and multiple biomedical studies where I advocated for standardized analysis 
+(e.g. quantifying westner blots, Oil Red O staining, and immunohistochemistry images) as well as more rigorous methods beyond widely-adopted analysis in biomedical studies such as t-tests, change-score analysis, and ratio normalization. The advanced and rigorous methods have greatly helped bench scientists understand their data with reliable and reproducible evidence. 
 
-I have worked with molecular biologists and biochemists, assisting them with more rigorous statistical methods in their benchwork data analysis. 
-One example is quantifying biomedical images (e.g. western blots, Oil Red O staining, and immunohistochemistry images) obtained from animal studies.
-I have also been advocating analysis based on mixed-effects models with covariate adjustment over simpler but error-prone methods such as change score, 
-ratio normalization, or comparing simple averages. These advanced and rigorous methods have greatly helped bench scientists understand their data with 
-reliable and reproducible evidence. 
-
-Examples of collaborative research:
+### Examples of collaborative research:
 
 #### - Modeling of Six-Minute Walk Trajectory in Multiple Sclerosis [paper](https://www.frontiersin.org/articles/10.3389/fneur.2021.698599/full)
 #### - Walk Capcity and Physical Activity Levels in Pediatric-Onset Multiple Sclerosis [paper](https://n.neurology.org/content/99/19/e2161.abstract)
