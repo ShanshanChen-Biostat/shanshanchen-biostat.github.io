@@ -22,7 +22,15 @@ DF = data.table(DF)
 DF = DF %>% group_by(ID) %>% mutate(Var = runner::fill_run(Var, run_for_first = T))
 ```
 - Adding a sequence along each subject
+```
+DF = DF %>% group_by(ID) %>% mutate(NewSeq = seq_len(n()))
+```
 - Visualzing each subject's longitudinal data sequence
+```
+library(nlme) ## trellis plot method
+GroupedDF <- groupedData(ref~Day|ID, data=DF, inner=~ToD)
+plot(GroupedDF, aspect=3)
+```
 
 - Aggregating baseline covariates
 ```
