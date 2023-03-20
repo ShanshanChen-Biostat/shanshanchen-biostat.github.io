@@ -5,6 +5,7 @@ library(data.table)
 DF = read.csv("data.csv")
 ```
 - Pivoting (transform cross-sectional data to the long format)
+Assuming the "wide" data have the same type of observation at each time point listed as a set of variables. These variables should have consistent names such as "Time_1", "Time_2",...,"Time-N" or "Month1","Month2",...,"MonthN" etc.
 ```
 DFlong = DF %>% pivot_longer(cols = starts_with("Time_"), 
                            names_to="Time",names_prefix ="Time_",
