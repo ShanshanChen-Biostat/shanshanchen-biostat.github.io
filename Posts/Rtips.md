@@ -1,4 +1,4 @@
-### Longitudinal Data Cleaning
+### Longitudinal Data Cleaning & Structuring
 ```
 library(tidyverse)
 DF = read.csv("data.csv")
@@ -23,3 +23,8 @@ DF = DF %>% group_by(ID) %>% mutate(Var = runner::fill_run(Var, run_for_first = 
 ```
 - Adding a sequence along each subject
 - Visualzing each subject's longitudinal data sequence
+
+- Aggregating baseline covariates
+```
+XSectional=DFlong%>%distinct(Var1, Var1, Var3, Var4)
+```
