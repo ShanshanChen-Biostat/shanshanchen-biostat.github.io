@@ -1,7 +1,7 @@
 
 #### Programming Tips
 - [Python Installation on Mac OS](/Posts/PythonInstall.md)
-- Useful data cleaning tips in R
+- [Useful data cleaning tips in R](/Posts/Rtips.md)
 
 #### Interesting Mathematical and Statistical Paradoxes
 - [Does one-child policy affect female-male ratio in China?](/Posts/OneChild.md)
