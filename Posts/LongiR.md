@@ -27,10 +27,9 @@ DF = DF %>% group_by(ID) %>% mutate(Var = runner::fill_run(Var, run_for_first = 
 DF = DF %>% group_by(ID) %>% mutate(NewSeq = seq_len(n()))
 ```
 - Adding a sequence along each subject, by counting the number of observations of a variable (e.g. Date here) of that subject 
-
+```
 DF = DF%>% group_by(ID) %>% mutate(Day = dense_rank(Date))
-
-
+```
 - Visualzing each subject's longitudinal data sequence
 ```
 library(nlme) ## trellis plot method
