@@ -3,5 +3,6 @@
 library(tidyverse)
 data = read.csv("data.csv")
 ```
-- Pivoting
-- Adding a sequence 
+- Pivoting (transform cross-sectional data to the long format)
+- Adding a sequence along each subject
+- 
