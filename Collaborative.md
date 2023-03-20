@@ -4,7 +4,7 @@ layout: default
 
 As a collaborative biostatistician, I have worked on various clinical studies where I advocated and actively 
 applied more advantageous models, and multiple biomedical studies where I advocated for standardized analysis 
-(e.g. quantifying westner blots, Oil Red O staining, and immunohistochemistry images) as well as more rigorous methods beyond widely-adopted analysis in biomedical studies such as t-tests, change-score analysis, and ratio normalization. The advanced and rigorous methods have greatly helped bench scientists understand their data with reliable and reproducible evidence. 
+(e.g. quantifying westner blots, Oil Red O staining, and immunohistochemistry images) as well as more rigorous methods beyond widely-adopted analysis in biomedical studies (e.g. t-tests, change-score analysis, and ratio normalization). These advanced and rigorous methods have greatly helped bench scientists understand their data with reliable and reproducible evidence. 
 
 ### Examples of collaborative research:
 
