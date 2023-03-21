@@ -1,8 +1,8 @@
 In order to limit the growth of its population, the Chinese government decided to limit families to having just one child. An alternative that was suggested was the "one-son" policy: as long as a woman has only female children she is allowed to have more children. One concern voiced about this policy was that no family would have more than one son, but many families would have several girls. This concern lead to our question: How would the one-son policy affect the ration of male to female births?
 
 From Elementary Probability for Applications, By Rick Durrett
----
-My thought: Why would it affect the female-male ratio? The natural ratio of sex should be equals since you don’t kill girls to break the balance. (Well, sadly maybe it’s not the case, pretend it’s true for now). Let’s see the book’s explanation.
+----
+#### My thought: Why would it affect the female-male ratio? The natural ratio of sex should be equals since you don’t kill girls to break the balance. (Well, sadly maybe it’s not the case, pretend it’s true for now). Let’s see the book’s explanation.
 ---
 To simplify the problem we assume that a family will keep having children until it has a male child. Assuming that male and female children are equally likely and the sexes of successive children are independent, the total number of children has a geometric distribution with success probability p =1/2, so by the previous example the expected number of child is 1/p =2 (E of geometric distribution is 1/p). There is always one male child, so the expected number of female children is 2-1 = 1.
  
