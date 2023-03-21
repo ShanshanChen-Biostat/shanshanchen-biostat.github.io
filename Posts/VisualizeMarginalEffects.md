@@ -25,7 +25,7 @@ plot(fittied, ci.style= "errorbar", colors= c("color1","color2","color3"))
 ```
 
 ### From the scratch using ggplot, most flexible
- - ### Fit Models (using a nonlinear mixed-effects model as an example)
+ - #### Fit Models (using a nonlinear mixed-effects model as an example)
  ```
 model_nlme <- nlme(Outcome ~ nonlinear_func(Var1,Para1, Para2, Para3), data = Data, 
                    fixed = Para1 + Para2 + Para3 ~1, random = Para2+Para3 ~1,
