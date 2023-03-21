@@ -39,8 +39,7 @@ shanshan dot chen at vcuhealth dot org
 
 ## [Teaching](Teaching.md)
 
-## [Statistical Lies and Paradoxes](StatisticalLies.md)
-
 ## Notes
-[Tips in R and Matlab programming](Posts.md) 
+- #### [Statistical Lies and Paradoxes](StatisticalLies.md)
+- #### [Tips in R and Matlab programming](Posts.md) 
 
