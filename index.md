@@ -41,5 +41,5 @@ shanshan dot chen at vcuhealth dot org
 
 ## Notes
 - #### [Statistical Lies and Paradoxes](StatisticalLies.md)
-- #### [Tips in R and Matlab programming](Posts.md) 
+- #### [Tips in R and Matlab programming](Rprogramming.md) 
 
