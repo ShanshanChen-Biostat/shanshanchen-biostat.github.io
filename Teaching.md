@@ -1,5 +1,5 @@
 ## Courses
-- Summer 2016, Biomedical Signal Processing (Proposed)
+- #### Biomedical Signal Processing (Proposed in Summer 2016)
 - #### Biostatistical Consulting Section 1  
   - Fall 2020, Statistical Controversies
   - Spring 2021, Peer Review of Manuscripts
