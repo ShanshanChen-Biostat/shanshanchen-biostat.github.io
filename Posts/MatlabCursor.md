@@ -1,5 +1,7 @@
 
-#### This is true for Matlab version before Matlab 2019a 
+#### Data cursor precision in Matlab
+
+This is probably only true for Matlab version before Matlab 2019a 
 
 You could change it permanently if you have a copy of Matlab on your local machine (i.e. it's not a server version Matlab).
 
