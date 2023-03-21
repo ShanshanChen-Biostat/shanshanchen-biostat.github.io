@@ -38,12 +38,10 @@ shanshan dot chen at vcuhealth dot org
 ## Publications 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
-## Teaching
-[Courses](Teaching.md)
+## [Teaching](Teaching.md)
 
-## Statistical Lies and Paradoxes
-[Common statisitcal pitfalls and pradoxes](StatisticalLies.md)
+## [Statistical Lies and Paradoxes](StatisticalLies.md)
 
-## Random Notes
+## Notes
 [Tips in R and Matlab programming](Posts.md) 
 
