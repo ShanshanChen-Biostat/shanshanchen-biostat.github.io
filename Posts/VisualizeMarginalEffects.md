@@ -16,7 +16,6 @@ plot_model(Model, terms=c("X_Var1","X_Var2","Group"),
 ### Using the ggeffects package, somewhat flexible
 ```
 library(ggeffects)
-library(lme4)
 
 fitted <- ggpredict(Model,terms = c("X_Var1","X_Var2","Group"))
 plot(fittied, ci.style= "errorbar", colors= c("color1","color2","color3"))
