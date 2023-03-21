@@ -42,6 +42,17 @@ or
 ggplot(DF, aes(x, y, group =ID))+geom_line(col=ID) ## ggplot method
 ```
 
+- #### Selecting values satisfying particular conditions from each subject to form a new dataset
+```
+D1 = DFlong %>% group_by(ID) %>% summarise(NewVar = min(Var))
+
+D1 = DFlong %>% group_by(ID) %>% summarise(NewVar = max(Var))
+
+D1 = DFlong %>% group_by(ID) %>% summarise(NewVar = Var[1]))
+
+D1 = DFlong %>% group_by(ID) %>% summarise(NewVar = min(which(Var!= Value)))
+```
+
 - #### Aggregating repeated covariates from long format data
 ```
 XSectional=DFlong%>%distinct(Var1, Var1, Var3, Var4)
