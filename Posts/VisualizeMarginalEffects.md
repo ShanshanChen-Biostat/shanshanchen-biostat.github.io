@@ -3,7 +3,28 @@
 library(ggplot2)
 library(nlme)
 ```
+### Simpliest way but can be difficult to control style
+```
+library(sjPlot)
+Model = lme(Y ~ X_Var1*Group + X_Var2, random = ~1|ID, data =Data)
+plot_model(Model, terms=c("X_Var1","X_Var2","Group"),
+           axis_title = c("X Name", "Y Name"), 
+           colors = c("color1", "color2", "color3"), line.size=1, 
+           legend.title = "Repeat")
+```
 
+### Using the ggeffects package, somewhat flexible
+```
+library(ggeffects)
+library(lme4)
+
+fitted <- ggpredict(Model,terms = c("X_Var1","X_Var2","Group"))
+plot(fittied, ci.style= "errorbar", colors= c("color1","color2","color3"))
+          +labs(x= "X Name", y = "Y Name", color = "Repeat")
+
+```
+
+### From the scratch using ggplot, most flexible
  - ### Fit Models (using a nonlinear mixed-effects model as an example)
  ```
 model_nlme <- nlme(Outcome ~ nonlinear_func(Var1,Para1, Para2, Para3), data = Data, 
