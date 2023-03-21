@@ -21,12 +21,4 @@
   - Fall 2022, Academic Presentations
 
 
-#### Interesting Mathematical and Statistical Paradoxes
-- [Does one-child policy affect female-male ratio in China?](/Posts/OneChild.md)
-- Is a player's average the best predict for their seasonal score? Stein's Paradox 
-- Do conclusions based on group averages generalize to indivudals? Simpson's Paradox & Ecological Fallacy
-- Lord's Paradox
-- How does statistical regression results lie? Berkson's Paradox
-- Does aggregated votes from individuals reflect the majority's preference?Condocet's Praradox 
-- The Prosecutor's Fallacy
-- Slippery Slpoe Fallcy and Conjunction Fallacy
+
