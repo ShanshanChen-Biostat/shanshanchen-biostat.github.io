@@ -39,7 +39,10 @@ shanshan dot chen at vcuhealth dot org
 A list of my publications can be found [here](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
 ## Teaching
-Courses and [common statisitcal pitfalls and pradoxes](Teaching.md)
+[Courses](Teaching.md)
+
+## Statistical Lies and Paradoxes
+[Common statisitcal pitfalls and pradoxes](StatisticalLies.md)
 
 ## Random Notes
 [Tips in R and Matlab programming](Posts.md) 
