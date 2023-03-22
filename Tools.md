@@ -17,7 +17,7 @@ layout: default
 - #### Gait Speed Trajectory during Six-Minute Walk
 
 ## Matlab 
-- #### CircaCP ([Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP))
+- #### CircaCP -- Actigraphy analysis ([Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP))
 - #### Gait analysis using data from inertial sensors
 - #### ECG analysis
 - #### EMG analysis 
