@@ -18,7 +18,7 @@ layout: default
 
 ## Matlab 
 - #### CircaCP ([Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP))
-- #### Gait analysis
+- #### Gait analysis using data from inertial sensors
 - #### ECG analysis
 - #### EMG analysis 
 - #### PPG analysis
