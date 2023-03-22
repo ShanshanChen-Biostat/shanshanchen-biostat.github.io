@@ -18,4 +18,7 @@ layout: default
 
 ## Matlab 
 - #### CircaCP ([Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP))
-
+- #### Gait analysis
+- #### ECG analysis
+- #### EMG analysis 
+- #### PPG analysis
