@@ -30,10 +30,9 @@ shanshan dot chen at vcuhealth dot org
 
 - #### [Gait & Movement](WearableGait.md) 
 
-##  Collaborative Research
+##  [Collaborative Research](Collaborative.md)
 
-- #### [Collaborative Projects](Collaborative.md)
-- #### [Some R Shiny Apps](Tools.md)
+## [Software](Tools.md)
 
 ## [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en)
 
