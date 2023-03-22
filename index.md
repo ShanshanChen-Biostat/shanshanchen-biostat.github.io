@@ -22,7 +22,7 @@ shanshan dot chen at vcuhealth dot org
 
 - #### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
-- #### [Actigraphy Analysis](Actigraphy.md)
+- #### [Physical Acitivty & Circadian Rhythms](Actigraphy.md)
 
 - #### Sleep Architecture Analysis 
 
