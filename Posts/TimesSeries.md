@@ -7,3 +7,19 @@ Still, it's often very useful to know how to handle time series in R too.
 library(chron)
 library(zoo)
 ```
+
+- #### Converting string timestamps to proper time format
+
+```
+DF<- read.csv("data.csv")
+DF$Time <- as.character(DF$Time, format="%H:%M:%S" )
+DF$Tvec <- chron(times=DF$Time)
+```
+
+- #### Converting timestamps (wihtout date) to time of the day (time elapsed since midnight)
+
+```
+DF$ToD_hrs <- hours(DF$Tvec)+minutes(DF$Tvec)/60
+DF$ToD_mins <- 60*hours(DF$Tvec)+minutes(DF$Tvec)
+
+```
