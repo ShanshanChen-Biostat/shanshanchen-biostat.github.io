@@ -22,3 +22,4 @@ layout: default
 - #### ECG analysis
 - #### EMG analysis 
 - #### PPG analysis
+- #### Hemodynamics (Continuous blood pressure and cardiact output)
