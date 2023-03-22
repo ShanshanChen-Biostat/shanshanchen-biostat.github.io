@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### R Shiny Apps for Researchers
+## R Shiny Apps for Researchers
 
 - #### CircaCP: Sleep-Wake Cycle Detection for Wearable Activity Data
 
@@ -12,7 +12,7 @@ layout: default
 
 - #### Oral Glucose Intolerance Test (OGTT) Analysis (AUC, Peak, and Fasting)
 
-### R Markdown Codes
+## R Markdown Codes
 
 - #### Gait Speed Trajectory during Six-Minute Walk
 
