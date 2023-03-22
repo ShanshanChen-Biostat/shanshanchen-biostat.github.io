@@ -17,9 +17,6 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  
- plugins:
-  - jekyll-seo-tag
 include:
   - Actigraphy.md
   - EnergyMet.md
