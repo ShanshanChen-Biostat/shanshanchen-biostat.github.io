@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<!--html_preserve-->
-
-<meta name="google-site-verification" content="3cqNXmrR31V6gEAqP6zD-6ecGcrX7Y5C2erMts9pvbA" />
-<!--/html_preserve-->
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
 
