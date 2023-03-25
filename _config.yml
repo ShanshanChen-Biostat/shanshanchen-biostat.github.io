@@ -7,7 +7,7 @@ theme: jekyll-theme-primer
 github:
   is_project_page: FALSE
   license: MIT
-  repository_url: https://shanshanchen-biostat.github.io/
+  repository_url: "https://shanshanchen-biostat.github.io"
  
 google_analytics: UA-37790622-1
 show_downloads: FALSE
