@@ -8,6 +8,8 @@ layout: default
 ```
 data("data.rda")
 ```
+> Before importing a data file compatible with ASCII encoding (e.g. .csv, .xls), I recommend opening the file and check the variable names. Make sure the variable names accurately and succinctly describe the variables. If not, save a copy of the file, and change the variable names to shorter and more accurate descriptions and avoid following characters are not used in variable names: space, apostrophy, &, *, etc. Prefer underscore "xx_xx" to join words in a variable name.  
+> While it is easy to change the variable names in the script, it can generate a long list of renaming codes which can make the script look tedious and lengthy.  
 
 - #### importing .csv file
 ```
