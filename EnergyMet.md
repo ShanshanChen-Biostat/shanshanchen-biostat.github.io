@@ -31,7 +31,7 @@ the various components of EE.
 
 ## Why Smart Wearable Sensors aren't Enough for Telling You Daily Energy Expenditure 
 
-Smart wearable sensors, such as FitBit and Apple Watch, often comes with apps to monitor your activity levels and tell you how much calories you burned. However, these calorie numbers can be questionable as activity + heart rate tracking cannot capture the complex components of energy metabolism detailed above. This limitation is beyond algorithms and sensors as wearable activity sensors simply don't measure REE, NEAT, or Themic Effect of Food, which are components that consistently vary from individual to individual. 
+Smart wearable sensors, such as FitBit and Apple Watch, often comes with apps to monitor your activity levels and tell you how much calories you burned. However, these calorie numbers can be questionable as activity + heart rate tracking cannot capture the complex components of energy metabolism detailed above. This limitation is beyond algorithms and sensors as wearable activity sensors simply don't measure REE, NEAT, or Thermic Effect of Food, which are components that consistently vary from individual to individual. 
 
 What wearable sensors are good at measuring, at least with the current start-of-the-art devices, is the AEE component. I have done [research](https://www.marcoaltini.com/uploads/1/3/2/3/13234002/bsn2013_cameraready.pdf) on this front when I was a PhD student intern at IMEC the Netherlands (collaborated with Marco Altini). While an error (RMSE) of about 1 kcal/min was achieved without tedious supervised activity recognition (read, endless experimental control and labeling work), this is a large error that cannot be reliably used in clinical research (e.g. weight loss program). 
 
