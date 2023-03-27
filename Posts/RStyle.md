@@ -24,5 +24,5 @@ DayOne
 dayone
 djm1
 ```
-Naming conventions vary per programming languages and programmers([e.g.](https://github.com/ktaranov/naming-convention/blob/master/R%20style%20guide%20and%20name%20convention.md), 
+Naming conventions vary per programming languages and [programmers](https://github.com/ktaranov/naming-convention/blob/master/R%20style%20guide%20and%20name%20convention.md), 
 However, in the context of R, I agree with Wickham's convention. 
