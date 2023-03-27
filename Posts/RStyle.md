@@ -38,7 +38,9 @@ However, in the context of R, I agree with Wickham's convention.
 ### Assignment 
 [Wickham](http://adv-r.had.co.nz/Style.html) mentioned 
 > Use <-, not =, for assignment.
-This rule is way out of date, use "=" if you enjoy the easy reach of the key as I do when coding!
+This rule is out of date, the only advantage of using "<-" is that you can direct it the other way, as in "->" so you can assign the value from the left (evaluation) to the right (object). As assignment convention in most programming languages goes from the right to the left, assigning from left to right is not any considerate and sane coder would do.   
+
+So use "=" if you enjoy its simplicity and convention-following nature. Not to mention it's much easier to reach on the keyboard. 
 
 
 
