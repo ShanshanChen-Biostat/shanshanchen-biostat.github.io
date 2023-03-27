@@ -23,5 +23,10 @@ DF = read.csv("data.csv", row.names = FALSE, encoding = "UTF-8")
 - #### importing any type of delimited files 
 ```
 DF = read.table("data.csv", sep=",", blank.lines.skip=TRUE, allowEscapes=FALSE, header=TRUE, encoding="UTF-8")
+```
 
+- #### importing data saved by SAS
+```
+library(haven)
+DF = read_xpt("data.csv", col_select = NULL, skip = 0, n_max = Inf)
 ```
