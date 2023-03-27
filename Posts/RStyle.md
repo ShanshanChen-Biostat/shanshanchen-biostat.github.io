@@ -2,7 +2,9 @@
 layout:default
 ---
 
-### Naming conventions
+This post documents my preferences of R coding style. Whatever coding style you use, make sure it's consistent and human understandable. You can also use automatic R format package "formatR" developed by [Yihui Xie](https://yihui.org/formatr/#substitute-with)
+
+### Naming conventions of variables
 
 >“There are only two hard things in Computer Science: cache invalidation and naming things.” 
 > — Phil Karlton
@@ -26,3 +28,17 @@ djm1
 ```
 Naming conventions vary per programming languages and [programmers](https://github.com/ktaranov/naming-convention/blob/master/R%20style%20guide%20and%20name%20convention.md), 
 However, in the context of R, I agree with Wickham's convention. 
+
+
+### Naming conventions of files 
+
+
+
+
+### Assignment 
+[Wickham](http://adv-r.had.co.nz/Style.html) mentioned 
+> Use <-, not =, for assignment.
+This rule is way out of date, use "=" if you enjoy the easy reach of the key as I do when coding!
+
+
+
