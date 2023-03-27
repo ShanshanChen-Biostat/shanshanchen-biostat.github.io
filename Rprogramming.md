@@ -1,5 +1,6 @@
 
 #### R Notes 
+- Data cleaning 
 - [Longitudinal data cleaning tips in R](/Posts/LongiR.md)
 - [Exploratory data analysis in R](Posts/ExploratoryDataAnalysis.md)
 - [Visualizing marginal effects after modeling](Posts/VisualizeMarginalEffects.md)
