@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This post documents my preferences of R coding style. Whatever coding style you use, make sure it's consistent and human understandable. You can also use automatic R format package "formatR" developed by [Yihui Xie](https://yihui.org/formatr/#substitute-with)
+This post documents my preferences of R coding style. Whatever coding style you use, make sure it's consistent and human understandable. You can also use automatic R format package "formatR" developed by [Yihui Xie](https://yihui.org/formatr/#substitute-with).
 
 ### Naming conventions of variables
 
