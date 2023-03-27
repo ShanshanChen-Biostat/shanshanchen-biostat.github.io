@@ -12,6 +12,6 @@
 - How does selection bias affect your understanding of your data? Berkson's Paradox
 
 
-## Probabilty Musings
+- #### Others
 - [Does the one-child policy affect the female-male ratio in China?](/Posts/OneChild.md)
 
