@@ -14,24 +14,25 @@ According [Hadley Wickham](http://adv-r.had.co.nz/Style.html),
 >Variable and function names should be lowercase. Use an underscore (_) to separate words within a name. 
 >Generally, variable names should be nouns and function names should be verbs. Strive for names that are concise and meaningful (this is not easy!)
 
+That's Wickham's preference. Personally, I also distinguish variables and function names by capitalizing Variable_names and lowercase "function_names"
+
 Example:
 ```
 # Good
-day_one
-day_1
+Day_one
+DayOne
+Day_1
 
 # Bad
 first_day_of_the_month
-DayOne
-dayone
 djm1
 ```
 Naming conventions vary per programming languages and [programmers](https://github.com/ktaranov/naming-convention/blob/master/R%20style%20guide%20and%20name%20convention.md), 
 However, in the context of R, I agree with Wickham's convention. 
 
 
-### Naming conventions of files 
-
+### Naming conventions of functions 
+Generally, variable names should be nouns and function names should be verbs. I prefer beginning function name with lowercase, and begin the word following the action verb with capital letters, e.g. "cleanData()" or "clean_data()" 
 
 
 
