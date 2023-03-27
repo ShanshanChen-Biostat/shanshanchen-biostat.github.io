@@ -7,6 +7,8 @@ layout: default
 >  Avoid following characters are not used in variable names: space, apostrophy, &, *, etc. Prefer underscore "xx_xx" to join words in a variable name.  
 > While it is easy to change the variable names in the script, when the number of variables that need renaming is large, a long list of renaming codes can make the script look tedious and lengthy.  
 
+Also read my previous post, [R Style](Posts\RStyle.md)
+
 ### Data import
 - #### import .rda file 
 ```
