@@ -30,7 +30,7 @@ We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles 
 
 In fact, CircaCP has been seamlessly applied to mulitple actigraphy datasets collected on different populations (children, multiple sclerosis patients,), with different sensors (ActiGrpah, ActiWatch, or FitBit), on different wearing locations (hip or wrist). 
 
- <img align="center" src="img/FitBitResults.png" alt="FitBit" width = "500" height = "900">
+ <img align="center" src="img/FitBitResults.png" alt="FitBit" width = "900" height = "400">
 
 
 Leveraging the large sample size of MESA Sleep Study, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis. 
