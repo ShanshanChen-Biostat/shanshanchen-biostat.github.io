@@ -42,7 +42,7 @@ Leveraging the large sample size of MESA Sleep Study, we [validated CircaCP algo
 ***Takeaway message***: By focusing on the commonality in human circadian rhythms captured by actigraphy, CircaCP presents an accurate and unsupervised solution for detecting sleep-wake cycles. It has transferred seamlessly from hip-worn ActiGraph data collected from children in our previous study to wrist-worn Actiwatch data collected from adults. The large between- and within-subject variability highlights the need for estimating individual-level S/WOTs when conducting actigraphy research. The generalizability of CircaCP has enabled its wide application to actigraphy data collected by different types of wearable sensors.
 
 ## Open Source Code 
-CircaCP is free [online](https://github.com/ShanshanChen-Biostat/CircaCP)
+CircaCP is downloadable from [my Github repository](https://github.com/ShanshanChen-Biostat/CircaCP)
 
 
 
