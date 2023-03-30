@@ -22,10 +22,13 @@ Currently, there is no unified scale for these activity counts.
 
 ## Circadian Rhythm and Sleep-Wake Cycle Detection 
  
+We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles from minute-by-minute actigraphy data. It first uses a robust cosinor model to estimate circadian rhythm, then searches for a single change point (CP) within each cycle using a parameter CP detection method. We used CircaCP to estimate sleep/wake onset times (S/WOTs) from 2125 individuals' data in the [MESA Sleep study](https://sleepdata.org/datasets/mesa), and compared the estimated S/WOTs against self-reported S/WOT events markers. Here are some examples of sleep-wake cycles detected by our CircaCP algorithm:
 
-We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles from minute-by-minute actigraphy data. It first uses a robust cosinor model to estimate circadian rhythm, then searches for a single change point (CP) within each cycle using a parameter CP detection method. We used CircaCP to estimate sleep/wake onset times (S/WOTs) from 2125 individuals' data in the MESA Sleep study, and compared the estimated S/WOTs against self-reported S/WOT events markers. Lastly, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis.
+<img align="center" src="img/Results.png" alt="Me" width = "700" height = "800">
 
-On average, SOTs estimated by CircaCP were six minutes behind those reported by event markers and WOTs estimated by CircaCP were less than one minute behind those reported by markers. These differences accounted for less than 0.25% variation in SOTs and WOTs.  Between-subject variability and day-to-day variability are the two biggest variance components, accounting for 50% to 80% of the total variance.  
+
+Lastly, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis. 
+
 
 By focusing on the commonality in human circadian rhythms captured by actigraphy, our algorithm transferred seamlessly from hip-worn ActiGraph data collected from children in our previous study to wrist-worn Actiwatch data collected from adults.  The large between- and within-subject variability highlights the need for estimating individual-level S/WOTs when conducting actigraphy research. The generalizability of our algorithm also suggests that it could be widely applied to actigraphy data collected by other wearable sensors.
 
