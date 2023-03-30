@@ -8,11 +8,15 @@ If the subject wear it all the time, then his/her sleep-wake cycles can also be 
 
 With these sleep-wake cycles detected, we can further about one’s sleep habits, such as whether s/he’s a regular sleeper, how long they usually sleep at night, when do they go to sleep and get up etc. These patterns are important metrics in sleep studies, often associated with health outcomes. 
 
-But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is unknown. To understand why supervised detection algorithm will not work here, first we need to understand how activitiy is counted. 
+But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is not great. Here's an example of sleep-wake cycled detected by ![existing Sleep-Wake Cycle Detection Algorithms](/img/Existing.png).
+
+
+To understand why supervised detection algorithm will not work here, first we need to understand how activitiy is counted. 
 
 ## Relative Scales of Activity Counts 
 
 Currently, there is no unified scale for these activity counts.
+
 
 ## Circadian Rhythm and Sleep-Wake Cycle Detection 
  
@@ -23,7 +27,6 @@ On average, SOTs estimated by CircaCP were six minutes behind those reported by 
 
 By focusing on the commonality in human circadian rhythms captured by actigraphy, our algorithm transferred seamlessly from hip-worn ActiGraph data collected from children in our previous study to wrist-worn Actiwatch data collected from adults.  The large between- and within-subject variability highlights the need for estimating individual-level S/WOTs when conducting actigraphy research. The generalizability of our algorithm also suggests that it could be widely applied to actigraphy data collected by other wearable sensors.
 
-![image](https://user-images.githubusercontent.com/92536125/228921618-41fb86c8-4b32-4851-b0c8-52096c2e0338.png)
 
 
 
