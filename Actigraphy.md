@@ -24,7 +24,7 @@ Currently, there is no unified scale for these activity counts.
  
 We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles from minute-by-minute actigraphy data. It first uses a robust cosinor model to estimate circadian rhythm, then searches for a single change point (CP) within each cycle using a parameter CP detection method. We used CircaCP to estimate sleep/wake onset times (S/WOTs) from 2125 individuals' data in the [MESA Sleep study](https://sleepdata.org/datasets/mesa), and compared the estimated S/WOTs against self-reported S/WOT events markers. Here are some examples of sleep-wake cycles detected by our CircaCP algorithm:
 
-<img align="center" src="img/Results.png" alt="Me" width = "700" height = "800">
+<img align="center" src="img/Results.png" alt="Me" width = "800" height = "800">
 
 
 Lastly, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis. 
