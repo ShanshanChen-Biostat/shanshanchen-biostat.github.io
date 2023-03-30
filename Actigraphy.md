@@ -26,8 +26,11 @@ We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles 
 
 <img align="center" src="img/Results.png" alt="CircaCP_demo" width = "900" height = "800">
 
+## Generalizability and External Validation
 
-Lastly, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis. 
+In fact, CircaCP has been seamlessly applied to mulitple actigraphy datasets collected on different populations (children, multiple sclerosis patients,), with different sensors (ActiGrpah, ActiWatch, or FitBit), on different wearing locations (hip or wrist). 
+
+Leveraging the large sample size of MESA Sleep Study, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis. 
 
 
 By focusing on the commonality in human circadian rhythms captured by actigraphy, our algorithm transferred seamlessly from hip-worn ActiGraph data collected from children in our previous study to wrist-worn Actiwatch data collected from adults.  The large between- and within-subject variability highlights the need for estimating individual-level S/WOTs when conducting actigraphy research. The generalizability of our algorithm also suggests that it could be widely applied to actigraphy data collected by other wearable sensors.
@@ -35,5 +38,4 @@ By focusing on the commonality in human circadian rhythms captured by actigraphy
 
 
 
-## Diurnal Physical Activity vs Nocturnal Physical Activity 
 
