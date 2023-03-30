@@ -10,7 +10,7 @@ With these sleep-wake cycles detected, we can further about one’s sleep habits
 
 But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is not great. Here are some examples of sleep-wake cycles detected by existing algorithms:
 
-<img align="center" src="img/Existing.png" alt="Sadeh_Cole" width = "500" height = "600">
+ <img align="center" src="img/Existing.png" alt="Sadeh_Cole" width = "800" height = "800">
 
 
 To understand why supervised detection algorithm will not work here, first we need to understand how activitiy is counted. 
