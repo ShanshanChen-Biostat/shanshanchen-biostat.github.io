@@ -8,7 +8,9 @@ If the subject wear it all the time, then his/her sleep-wake cycles can also be 
 
 With these sleep-wake cycles detected, we can further about one’s sleep habits, such as whether s/he’s a regular sleeper, how long they usually sleep at night, when do they go to sleep and get up etc. These patterns are important metrics in sleep studies, often associated with health outcomes. 
 
-But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is not great. Here's an example of sleep-wake cycled detected by ![existing Sleep-Wake Cycle Detection Algorithms](/img/Existing.png).
+But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is not great. Here are some examples of sleep-wake cycles detected by existing algorithms:
+
+<img align="center" src="img/Existing.png" alt="Me" width = "150" height = "200">
 
 
 To understand why supervised detection algorithm will not work here, first we need to understand how activitiy is counted. 
