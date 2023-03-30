@@ -8,14 +8,14 @@ If the subject wear it all the time, then his/her sleep-wake cycles can also be 
 
 With these sleep-wake cycles detected, we can further about one’s sleep habits, such as whether s/he’s a regular sleeper, how long they usually sleep at night, when do they go to sleep and get up etc. These patterns are important metrics in sleep studies, often associated with health outcomes. 
 
-But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. 
+But before we can study how sleep patterns are tied to a health outcome, we must know how to accurately detect such sleep-wake cycles. Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is unknown. To understand why supervised detection algorithm will not work here, first we need to understand how activitiy is counted. 
 
 ## Relative Scales of Activity Counts 
 
 Currently, there is no unified scale for these activity counts.
 
 ## Circadian Rhythm and Sleep-Wake Cycle Detection 
- Numerous supervised detection algorithms have been developed with parameters estimated from and optimized for a particular dataset, yet their generalizability from the sensor to sensor or study to study is unknown. 
+ 
 
 We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles from minute-by-minute actigraphy data. It first uses a robust cosinor model to estimate circadian rhythm, then searches for a single change point (CP) within each cycle using a parameter CP detection method. We used CircaCP to estimate sleep/wake onset times (S/WOTs) from 2125 individuals' data in the MESA Sleep study, and compared the estimated S/WOTs against self-reported S/WOT events markers. Lastly, we estimated the biases between estimated and self-reported S/WOTs and quantified sources of variation in S/WOTs, considering both between-subject variability and the day-to-day, within-subject variability, using linear mixed-effects models and variance component analysis.
 
