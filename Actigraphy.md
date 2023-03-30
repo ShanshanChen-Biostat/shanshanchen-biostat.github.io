@@ -28,7 +28,7 @@ We propose an unsupervised algorithm – CircaCP -- to detect sleep-wake cycles 
 
 ## Generalizability and External Validation
 
-In fact, CircaCP has been seamlessly applied to mulitple actigraphy datasets collected on different populations (e.g. [children](https://arxiv.org/pdf/1904.05313.pdf), [adult multiple sclerosis patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9350909/), and [adult aging population] (https://arxiv.org/pdf/2111.14960.pdf)), with different sensors (ActiGraph, ActiWatch, or FitBit), on different wearing locations (hip or wrist). 
+In fact, CircaCP has been seamlessly applied to mulitple actigraphy datasets collected on different populations (e.g. [children](https://arxiv.org/pdf/1904.05313.pdf), [adult multiple sclerosis patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9350909/), and [adult aging population](https://arxiv.org/pdf/2111.14960.pdf)), with different sensors (ActiGraph, ActiWatch, or FitBit), on different wearing locations (hip or wrist). 
 
  <img align="center" src="img/FitBitResults.png" alt="FitBit" width = "900" height = "400">
 
