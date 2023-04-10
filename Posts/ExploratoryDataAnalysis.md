@@ -17,9 +17,9 @@ DFlong = read.csv("LongData.csv") ## DFlong is the long format of panel data wit
 
 Avg = DFlong %>% group_by(Time,Group) %>% summarise(Var = mean(Var)) 
 
-p = ggplot(DFlong, aes(Time, OGTT,col=Group))
-     + geom_line(aes(group=ID),alpha = .4)
-     +geom_line(data=d,aes(group = Group),size=2)
-     + facet_wrap(~Group)
+p = ggplot(DFlong, aes(Time, Var,col=Group)) ## input variable names 
+     + geom_line(aes(group=ID),alpha = .4)  ## show individual trajectories
+     +geom_line(data=Avg,aes(group = Group),size=2) ## show average trajectories
+     + facet_wrap(~Group) ## split panel by group indicator 
 p
 ```
