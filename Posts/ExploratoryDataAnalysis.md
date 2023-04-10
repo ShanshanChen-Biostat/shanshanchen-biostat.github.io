@@ -13,6 +13,7 @@ ggplot(DF, aes(x = x, colour = Group)) + geom_density()
 
 ```
 library(ggplot2)
+library(tidyverse)
 DFlong = read.csv("LongData.csv") ## DFlong is the long format of panel data with Time index and ID
 
 Avg = DFlong %>% group_by(Time,Group) %>% summarise(Var = mean(Var)) 
