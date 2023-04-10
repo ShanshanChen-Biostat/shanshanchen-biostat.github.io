@@ -5,7 +5,7 @@ layout: default
 - #### Summarizing desriptive statistics using the Table1 package
 ```
 library(table1)
-DF <- read.csv("data.csv")
+DF = read.csv("data.csv")
 table1(~Var1+Var2+as.factor(Var3)+...+Var4|as.factor(group_of_interest), data=DF)
 ```
 
@@ -22,7 +22,8 @@ DF %>%
 - #### Summarizing regression tables with the same set of independent variables but multiple outcomes 
 ```
 library(sjPlot)
-Mod1 = lm(Outcome1 ~ Group + Age + Sex + Race + BMI , data = DF)
+DF = read.csv("data.csv") ## DF is a cross-sectional dataset, with group indicator Group and a few covariates
+Mod1 = lm(Outcome1 ~ Group + Age + Sex + Race + BMI, data = DF)
 Mod2 = lm(Outcome2 ~ Group + Age + Sex + Race + BMI, data = DF)
 Mod3 = lm(Outcome3 ~ Group + Age + Sex + Race + BMI, data = DF)
 Mod4 = lm(Outcome4 ~ Group + Age + Sex + Race + BMI, data = DF)
