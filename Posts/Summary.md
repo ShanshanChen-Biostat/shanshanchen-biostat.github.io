@@ -10,6 +10,7 @@ table1(~Var1+Var2+as.factor(Var3)+...+Var4|as.factor(group_of_interest), data=DF
 ```
 
 - #### Summarizing by tidyverse
+
 ```
 library(tidyverse)
 DF %>%
