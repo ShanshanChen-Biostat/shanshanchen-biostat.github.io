@@ -24,7 +24,7 @@ DF %>%
 
 ```
 library(sjPlot)
-DF = read.csv("data.csv")  *DF is a cross-sectional dataset, with group indicator Group and a few covariates
+DF = read.csv("data.csv")  #DF is a cross-sectional dataset, with group indicator Group and a few covariates
 Mod1 = lm(Outcome1 ~ Group + Age + Sex + Race + BMI, data = DF)
 Mod2 = lm(Outcome2 ~ Group + Age + Sex + Race + BMI, data = DF)
 Mod3 = lm(Outcome3 ~ Group + Age + Sex + Race + BMI, data = DF)
