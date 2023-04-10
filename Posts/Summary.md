@@ -21,6 +21,7 @@ DF %>%
 ```
 
 - #### Summarizing regression tables with the same set of independent variables but multiple outcomes 
+
 ```
 library(sjPlot)
 DF = read.csv("data.csv")  *DF is a cross-sectional dataset, with group indicator Group and a few covariates
@@ -38,5 +39,6 @@ tab_model(
   dv.labels = c("Outcome1", "Outcome2","Outcome3","Outcome4","Outcome5"),
   string.pred = "Variables",
   string.est = "Estimates (SE)")
+
 ```
 
