@@ -39,3 +39,4 @@ tab_model(
   string.pred = "Variables",
   string.est = "Estimates (SE)")
 ```
+
