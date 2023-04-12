@@ -30,3 +30,12 @@ DF = read.table("data.csv", sep=",", blank.lines.skip=TRUE, allowEscapes=FALSE, 
 library(haven)
 DF = read_xpt("data.csv", col_select = NULL, skip = 0, n_max = Inf)
 ```
+
+- ### Variable selection and deletion 
+```
+library(tidyverse)
+DF = read.csv("data.csv")
+## delecting variables with certain patterns in the names
+DF = DF %>% select(-contains(c("prefix_","_suffix","_suffix_2","_suffix_3")))
+```
+
