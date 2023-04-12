@@ -31,7 +31,7 @@ library(haven)
 DF = read_xpt("data.csv", col_select = NULL, skip = 0, n_max = Inf)
 ```
 
-- ### Variable selection and deletion 
+### Variable Selection and Deletion 
 ```
 library(tidyverse)
 DF = read.csv("data.csv")
