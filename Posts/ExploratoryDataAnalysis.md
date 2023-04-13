@@ -24,7 +24,9 @@ p = ggplot(DFlong, aes(Time, Var,col=Group)) ## input variable names
      + facet_wrap(~Group) ## split panel by group indicator 
 p
 ```
+
 - #### Plot pairwise correlation table 
+
 ```
 library(corrplot)
 DF = read.csv("data.csv")
