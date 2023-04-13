@@ -37,5 +37,8 @@ library(tidyverse)
 DF = read.csv("data.csv")
 ## delecting variables with certain patterns in the names
 DF = DF %>% select(-contains(c("prefix_","_suffix","_suffix_2","_suffix_3")))
+
+## Selecting (keeping only) variables with certain patterns in the names
+DF = DF %>% select(contains(c("prefix_","_suffix","_suffix_2","_suffix_3")))
 ```
 
