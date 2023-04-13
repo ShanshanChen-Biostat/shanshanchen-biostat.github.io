@@ -24,3 +24,30 @@ p = ggplot(DFlong, aes(Time, Var,col=Group)) ## input variable names
      + facet_wrap(~Group) ## split panel by group indicator 
 p
 ```
+- #### Initial correlation analysis 
+```
+library(corrplot)
+DF = read.csv("data.csv")
+Vars = c("Var1","Var2","Var3","Var4")
+VarMat <- DF[Vars]
+CorMat<-cor(VarMat,use="pairwise.complete.obs",method ="spearman")
+
+cor.mtest <- function(mat, ...) {
+  mat <- as.matrix(mat)
+  n <- ncol(mat)
+  p.mat<- matrix(NA, n, n)
+  diag(p.mat) <- 0
+  for (i in 1:(n - 1)) {
+    for (j in (i + 1):n) {
+      tmp <- cor.test(mat[, i], mat[, j], ...,method ="spearman")
+      p.mat[i, j] <- p.mat[j, i] <- tmp$p.value
+    }
+  }
+  colnames(p.mat) <- rownames(p.mat) <- colnames(mat)
+  p.mat
+}
+
+PMat <- cor.mtest(VarMat)
+corrplot(CorMat, method="color",type="upper",addCoef.col = "black", tl.col="blue", number.digits = 3,
+         tl.srt=90,p.mat=PMat,sig.level=0.01,insig = "blank",col=brewer.pal(n=10, name="RdYlGn"))
+```
