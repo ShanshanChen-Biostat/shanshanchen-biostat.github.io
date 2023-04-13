@@ -31,10 +31,18 @@ library(haven)
 DF = read_xpt("data.csv", col_select = NULL, skip = 0, n_max = Inf)
 ```
 
-### Variable Selection and Deletion 
+### Variable Renaming, Selection and Deletion 
 ```
 library(tidyverse)
 DF = read.csv("data.csv")
+## Rename any variables
+DF = DF %>% rename(Name_new = Name_old, Name_new= Name_old2)
+
+## Rename variable names with certain pattern (e.g. removing suffix, prefix, symbols etc)
+library(stringr)
+DF = DF %>% rename_all(~str_replace(.,"^prefix",""))
+DF = DF %>% rename_with(~str_remove(., '.suffix'))
+
 ## delecting variables with certain patterns in the names
 DF = DF %>% select(-contains(c("prefix_","_suffix","_suffix_2","_suffix_3")))
 
