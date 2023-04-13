@@ -29,6 +29,7 @@ p
 
 ```
 library(corrplot)
+library(RColorBrewer)
 DF = read.csv("data.csv")
 Vars = c("Var1","Var2","Var3","Var4")
 VarMat <- DF[Vars]
