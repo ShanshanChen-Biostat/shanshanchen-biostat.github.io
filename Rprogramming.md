@@ -12,6 +12,15 @@
 
 
 
+#### Matlab Notes
+- Data Structure
+- Filtering
+- Visualization 
+- Lambda Functions
+
+
+
+
 
 #### Python Notes
 - [Python Installation on Mac OS](/Posts/PythonInstall.md)
