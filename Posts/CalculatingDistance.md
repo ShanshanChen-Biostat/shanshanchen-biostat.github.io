@@ -2,8 +2,22 @@
 - ### Calculating driving distance between two zip codes based on Google maps
 ```
 library(ggmaps)
+DF = read.csv("ZipInfo.csv") ## contains two columns of zip codes, one for origin, the other for destination
 register_google(key = "...", write = TRUE)
-GoogleDist = mapdist(from = DF$ZIP_start, to = DF$ZIP_end, mode="driving")
+
+#### for some reason, vectorization is not great in mapdist, will return duplicated records if the code below is used
+#GoogleDist = mapdist(from = DF$ZIP_start, to = DF$ZIP_end, mode="driving")
+
+
+DF$row.number <- 1:nrow(DF)
+for (i in 1:205){
+  a <- mapdist(from = DF$ZIP_origin[i], to = DF$ZIP_destination, mode = "driving",output = "simple")
+  a$row.number <- i
+  DF$miles[match(a$row.number, DF$row.number)] <- a$miles
+  DF$hours[match(a$row.number, DF$row.number)] <- a$hours
+}
+
+
 ```
 
 
