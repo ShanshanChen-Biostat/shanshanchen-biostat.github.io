@@ -1,5 +1,13 @@
 
-- ## Calculating geodistance on a map between two zip codes 
+- ### Calculating driving distance between two zip codes based on Google maps
+```
+library(ggmaps)
+register_google(key = "...", write = TRUE)
+GoogleDist = mapdist(from = DF$ZIP_start, to = DF$ZIP_end, mode="driving")
+```
+
+
+- ### Calculating geodistance on a map between two zip codes 
 ```
 library(data.table)
 library(geodist)
