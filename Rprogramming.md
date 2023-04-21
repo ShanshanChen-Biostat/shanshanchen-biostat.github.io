@@ -8,9 +8,9 @@
 - [Results summary](Posts/Summary.md)
 - [Handling Time Series Data in R](Posts/TimeSeries.md)
 - [Handling String Sequence Data in R](Posts/String.md)
-- Calcualting Geographic Data based on Zip Codes in R
-- Handling Survey Data based on US Census Data in R
-- Simulating Multilevel Data in R
+- Calcualting Geographic Data based on Zip Codes 
+- Handling Survey Data given US Census Data 
+- Simulating Multilevel Data 
 
 
 
