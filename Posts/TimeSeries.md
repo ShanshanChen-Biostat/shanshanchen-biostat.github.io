@@ -13,6 +13,16 @@ library(chron)
 library(zoo)
 ```
 
+- #### Ensure reading in data in time format in excel
+
+```
+library(readxl)
+DF<- read_excel("data.xlsx", sheet ="Sheet 1")
+DF_temp = read_excel("data.xlsx", sheet="Sheet 1",col_types = "date") ## keep time and date variables as they are
+DF$Time = DF_temp$Time # replace time variable in the original data frame to time format
+DF$Date = DF_temp$Date # replace date variable in the original data frame to time format
+```
+
 - #### Converting string timestamps to proper time format
 
 ```
