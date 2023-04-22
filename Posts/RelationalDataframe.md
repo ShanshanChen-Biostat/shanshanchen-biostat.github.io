@@ -1,4 +1,4 @@
-## Merging, Bidning, Differentiating Datasets
+## Merging, Binding, Differentiating Datasets
 
 - ### Merging two data frames with different varibles by IDs 
 ```
