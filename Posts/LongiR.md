@@ -39,7 +39,7 @@ plot(GroupedDF, aspect=3)
 ```
 or
 ```
-ggplot(DF, aes(x, y, group =ID))+geom_line(col=ID) ## ggplot method
+ggplot(DF, aes(x, y, group =ID))+geom_line(aes(col=ID),alpha=0.5) ## ggplot method
 ```
 
 - #### Selecting values satisfying particular conditions from each subject to form a new dataset
