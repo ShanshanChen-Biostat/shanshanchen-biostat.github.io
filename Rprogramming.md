@@ -12,6 +12,7 @@
 - Calcualting Geographic Data based on Zip Codes 
 - Handling Survey Data given US Census Data 
 - Simulating Multilevel Data 
+- Permutation Test on Means 
 
 
 
