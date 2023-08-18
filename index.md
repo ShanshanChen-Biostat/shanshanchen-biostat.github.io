@@ -11,7 +11,7 @@ I'm an Associate Professor in the [Department of Biostatistics](https://biostati
 Ph.D, Electrical Engineering, University of Virginia -- 2013
 
 ## Contact
-shanshan dot chen at vcuhealth dot org
+schen3 at vcu dot edu
 
 ## Expertise
 - Wearable Sensors & Real-time Systems <br>
