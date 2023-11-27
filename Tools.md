@@ -8,7 +8,7 @@ layout: default
 
 - #### [Multiple Sclerosis Severity Score Calculator (MSSS)](https://shanshan-chen.shinyapps.io/msss-calculator/)
 
-- #### [Patient-derived Multiple Sclerosis Severity Score (P-MSSS)] Calculator](https://shanshan-chen.shinyapps.io/p-msss_calculator/)
+- #### [Patient-derived Multiple Sclerosis Severity Score (P-MSSS) Calculator](https://shanshan-chen.shinyapps.io/p-msss_calculator/)
 
 - #### Oral Glucose Intolerance Test (OGTT) Analysis (AUC, Peak, and Fasting)
 
