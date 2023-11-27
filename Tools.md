@@ -6,7 +6,7 @@ layout: default
 
 - #### CircaCP: Sleep-Wake Cycle Detection for Wearable Activity Data
 
-- #### [Multiple Sclerosis Severity Score (MSSS) Calculator] (https://shanshan-chen.shinyapps.io/msss-calculator/)
+- #### [Multiple Sclerosis Severity Score Calculator (MSSS)] (https://shanshan-chen.shinyapps.io/msss-calculator/)
 
 - #### [Patient-derived Multiple Sclerosis Severity Score (P-MSSS)] Calculator](https://shanshan-chen.shinyapps.io/p-msss_calculator/)
 
