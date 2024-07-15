@@ -44,5 +44,7 @@ Leveraging the large sample size of MESA Sleep Study, we [validated CircaCP algo
 ## Open Source Code 
 CircaCP is downloadable from [my Github repository](https://github.com/ShanshanChen-Biostat/CircaCP)
 
-
+## Publication 
+We have validated this algorithm on a large population cohort and documented the technical details of this algorithm in [this paper](https://doi.org/10.1098/rsos.231468):
+Chen Shanshan and Sun Xinxin 2024. Validating CircaCP: a generic sleep–wake cycle detection algorithm for unlabelled actigraphy dataR. Soc. Open Sci.11231468
 
