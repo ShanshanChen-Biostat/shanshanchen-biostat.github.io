@@ -25,7 +25,7 @@ schen3 at vcu dot edu
 
 - #### [Physical Activity & Circadian Rhythms](Actigraphy.md)
 
-- #### Sleep Architecture Analysis 
+- #### [Sleep Architecture Analysis](SleepArchitecture.md) 
 
 - #### [Wearable Sensors Evaluation](WearableEvaluation.md)
 
