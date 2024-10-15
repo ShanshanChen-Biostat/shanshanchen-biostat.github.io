@@ -1,3 +1,7 @@
+
+---
+layout: default
+---
 Sleep is a complex biological process regulated by networks of neurons and environmental factors. As one falls asleep, neurotransmitters from sleep–wake regulating neurons work in synergy to control the switching of different sleep states throughout the night. As sleep disorders or underlying neuropathology can manifest as irregular switching, analyzing these patterns is crucial in sleep medicine and neuroscience. Although hypnograms represent the switching of sleep states well, current analyses of hypnograms often rely on oversimplified temporal descriptive statistics (TDS, e.g., total time spent in a sleep state), which fail to capture the intricate structure of sleep state switching.
 
 We propose a new method for analyzing sleep hypnogram data. This proposed model leverages the continuous-time Markov model to depict the time-varying sleep-state transitions, and distinguishes between three types of wake states—wake before sleep onset, wake after sleep onset (WASO), and wake after final awakening—to probe three forms of insomnia: difficulty falling asleep, difficulty maintaining sleep, and waking up too early. We fit the proposed model to data from 2056 aging adults in the Multi-Ethnic Study of Atherosclerosis (MESA) Sleep study, and profiled sleep architectures in this population and identified the various associations between the sleep state transitions, demographic factors, and subjective sleep questions.
