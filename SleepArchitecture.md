@@ -12,5 +12,5 @@ In conclusion, poor sleep quality can manifest in various transition patterns be
 
 
 Publication:
-Jacobs, Jonathon, Caitlin E. Martin, Bernard Fuemmeler, and Shanshan Chen. “Profiling the Sleep Architecture of Ageing Adults Using a Seven-State Continuous-Time Markov Model.” Journal of Sleep Research n/a, no. n/a (n.d.): e14331. https://doi.org/10.1111/jsr.14331.
+Jacobs, Jonathon, Caitlin E. Martin, Bernard Fuemmeler, and Shanshan Chen. “Profiling the Sleep Architecture of Ageing Adults Using a Seven-State Continuous-Time Markov Model.” Journal of Sleep Research: e14331. https://doi.org/10.1111/jsr.14331.
 
