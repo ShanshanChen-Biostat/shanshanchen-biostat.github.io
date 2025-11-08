@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Research](/Research.html) · [Teaching](/Teaching.html) · [Software](/Tools.html)
+
 
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
