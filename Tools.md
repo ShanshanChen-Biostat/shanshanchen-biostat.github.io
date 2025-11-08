@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Software"
-permalink: /Tools.html
 ---
 
 
