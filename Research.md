@@ -3,13 +3,14 @@ layout: default
 ---
 ## Principal Research
 
-- #### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
 - #### [Physical Activity & Circadian Rhythms](Actigraphy.md)
 
 - #### [Sleep Architecture Analysis](SleepArchitecture.md) 
 
 - #### [Wearable Sensors Evaluation](WearableEvaluation.md)
+  
+- #### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
 - #### [Gait & Movement](WearableGait.md) 
 
