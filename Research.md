@@ -2,8 +2,8 @@
 
 ---
 layout: default
-title: Research
 ---
+title: Research
 permalink: /Research.html
 
 
