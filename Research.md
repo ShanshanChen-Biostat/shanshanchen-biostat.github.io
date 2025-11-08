@@ -2,9 +2,10 @@
 
 ---
 layout: default
-title: "Research"
-permalink: /Research.html
+title: Research
 ---
+permalink: /Research.html
+
 
 - #### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
 
