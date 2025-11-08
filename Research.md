@@ -1,8 +1,6 @@
-
 ---
 layout: default
 ---
-
 ## Primary Research
 
 - #### [Energy Metabolism & Whole-room Indirect Calorimeter](EnergyMet.md)
