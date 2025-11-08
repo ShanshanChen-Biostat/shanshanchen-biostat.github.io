@@ -3,7 +3,7 @@ layout: default
 ---
 <div align="right">
   
-## [Research](Research.md) | [Teaching](Teaching.md) | [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) | [Software](Tools.md) | [Notes](Notes.md)
+### [Research](Research.md) | [Teaching](Teaching.md) | [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) | [Software](Tools.md) | [Notes](Notes.md)
 
 </div>
 
