@@ -13,9 +13,19 @@ github:
 google_analytics: UA-37790622-1
 google-site-verification: gWoCO0HYyb7EMMOA38puaAJT2u5K0mLfeZkkKUa9VFE
 show_downloads: FALSE
-sidebar:
-    - "About"
-    - "Research"
+nav:
+  - title: "Research"
+    url: /Research.html
+  - title: "Teaching"
+    url: /Teaching.html
+  - title: "Software"
+    url: /Tools.html
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
  
 plugins:
   - jekyll-sitemap
@@ -29,5 +39,7 @@ include:
   - Tools.md
   - WearableGait.md
   - Rprogramming.md
+  - SleepArchitecture.md
+
   
   
