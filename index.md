@@ -23,7 +23,5 @@ schen3 at vcu dot edu
 
 
 
-## Notes
-- #### [Statistical Lies and Paradoxes](StatisticalLies.md)
-- #### [Tips in R and Matlab Programming](Rprogramming.md) 
+
 
