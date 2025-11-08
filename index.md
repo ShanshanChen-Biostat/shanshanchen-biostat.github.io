@@ -2,6 +2,7 @@
 layout: default
 ---
 
+                                                                                              [Research](/Research.md) | [Teaching](/Teaching.md) | [Software](/Tools.md) | [Notes](/Notes.md)
 
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
