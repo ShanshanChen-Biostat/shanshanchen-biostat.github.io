@@ -1,6 +1,9 @@
 ---
 layout: default
+title: "Software"
+permalink: /Tools.html
 ---
+
 
 ## R Shiny Apps for Researchers
 
