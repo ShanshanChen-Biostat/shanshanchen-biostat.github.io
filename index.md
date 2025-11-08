@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-                              [Research](Research.md) | [Teaching](Teaching.md) | [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) | [Software](Tools.md) | [Notes](Notes.md)
+<div align="right">
+[Research](Research.md) | [Teaching](Teaching.md) | [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) | [Software](Tools.md) | [Notes](Notes.md)
+</div>
 
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
@@ -16,8 +17,8 @@ Ph.D, Electrical Engineering, University of Virginia -- 2013
 schen3 at vcu dot edu
 
 ## Expertise
+- Time Series, Intensive Longitudinal Data, Sequence Data & Stochastic Process<br>
 - Wearable Sensors & Real-time Systems <br>
-- Time Series, Intensive Longitudinal Data, Sequence Data & Stochastic Process<br> 
 - Signal & Imaging Processing <br> 
 - Statistical Modeling & Machine Learning
 
