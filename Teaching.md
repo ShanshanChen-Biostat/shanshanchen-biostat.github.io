@@ -1,3 +1,10 @@
+
+### [Research](/Research.html) · [Teaching](/Teaching.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Software](/Tools.html) · [Notes](/Notes.html)
+{: .top-nav }
+
+---
+
+
 ## Courses
 - #### Biomedical Signal Processing (Proposed in Summer 2016)
 - #### Biostatistical Consulting Section 1  
