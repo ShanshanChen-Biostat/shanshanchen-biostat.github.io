@@ -1,11 +1,8 @@
 ---
 layout: default
-title: "Shanshan Chen"
-
 ---
 
 <div class="page-title-row">
-  <div class="name">Shanshan Chen</div>
   <div class="nav">
     [Research](/Research.html) ·
     [Teaching](/Teaching.html) ·
