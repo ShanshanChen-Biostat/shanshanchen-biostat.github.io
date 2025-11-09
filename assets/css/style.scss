@@ -2,7 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
+btn {
 
+display: none;
+
+}
 
 .top-nav {
   text-align: right;
@@ -10,38 +14,6 @@
   margin-bottom: 0.75rem;
 }
 
-/* Hide the default H1 that primer adds from the page content, so we don't get a duplicate name */
-.markdown-body > h1:first-of-type {
-  display: none;
-}
 
-/* One row: big name on the left, small nav on the right */
-.name-nav-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 0.5rem;
-}
 
-/* Big name */
-.name-nav-name {
-  font-size: 2rem;
-  font-weight: 700;
-}
-
-/* Smaller right-aligned nav */
-.name-nav-links {
-  font-size: 0.9rem;
-  text-align: right;
-}
-
-.name-nav-links a {
-  text-decoration: none;
-}
-
-.name-nav-links a:hover {
-  text-decoration: underline;
-}
 
