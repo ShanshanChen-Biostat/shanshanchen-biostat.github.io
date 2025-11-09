@@ -13,3 +13,31 @@ display: none;
   margin-top: 0;
   margin-bottom: 0.75rem;
 }
+
+---
+---
+
+/* hide the default big H1 that primer adds from `title:` */
+.markdown-body > h1:first-of-type {
+  display: none;
+}
+
+/* put name on the left and nav on the right, same line */
+.page-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.page-title-row .name {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.page-title-row .nav {
+  font-size: 0.9rem;  /* smaller font for nav */
+}
+
