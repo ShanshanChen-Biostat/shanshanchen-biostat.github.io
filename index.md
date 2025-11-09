@@ -2,10 +2,16 @@
 layout: default
 ---
 
-
-### [Research](/Research.html) · [Teaching](/Teaching.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Software](/Tools.html) · [Notes](/Notes.html)
-{: .top-nav }
-
+<div class="page-title-row">
+  <div class="name">Shanshan Chen</div>
+  <div class="nav">
+    [Research](/Research.html) ·
+    [Teaching](/Teaching.html) ·
+    [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) ·
+    [Software](/Tools.html) ·
+    [Notes](/Notes.html)
+  </div>
+</div>
 
 
 
