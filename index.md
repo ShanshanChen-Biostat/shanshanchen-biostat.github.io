@@ -13,6 +13,8 @@ layout: default
   </div>
 </div>
 
+---
+
 
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
