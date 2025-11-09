@@ -2,19 +2,10 @@
 layout: default
 ---
 
-<div class="page-title-row">
-  <div class="nav">
-    [Research](/Research.html) ·
-    [Teaching](/Teaching.html) ·
-    [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) ·
-    [Software](/Tools.html) ·
-    [Notes](/Notes.html)
-  </div>
-</div>
 
+### [Research](/Research.html) · [Teaching](/Teaching.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Software](/Tools.html) · [Notes](/Notes.html)
+{: .top-nav }
 ---
-
-
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
 
