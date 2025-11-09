@@ -3,20 +3,22 @@ layout: default
 title: "Software"
 ---
 
+## Actigraphy analysis
+- #### CircaCP Package and Code [Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP) [R Package](https://github.com/ShanshanChen-Biostat/CircaCP)
+- #### CircaCP-Shiny App [CircaCP-Shiny: Sleep-Wake Cycle Detection for Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
 
-## R Shiny Apps for Researchers
 
-- #### [CircaCP-Shiny: Sleep-Wake Cycle Detection for Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
+## Other R Shiny Apps for Researchers
 
 - #### [Multiple Sclerosis Severity Score Calculator (MSSS)](https://shanshan-chen.shinyapps.io/msss-calculator/)
 
 - #### [Patient-derived Multiple Sclerosis Severity Score (P-MSSS) Calculator](https://shanshan-chen.shinyapps.io/p-msss_calculator/)
 
+<!--
 - #### Oral Glucose Intolerance Test (OGTT) Analysis (AUC, Peak, and Fasting)
+-->
 
-## R Markdown Codes
-
-- #### Gait Speed Trajectory during Six-Minute Walk
+<!--
 
 ## Matlab 
 - #### Actigraphy analysis ([CircaCP: Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP))
@@ -25,3 +27,4 @@ title: "Software"
 - #### EMG analysis 
 - #### PPG analysis
 - #### Hemodynamics (Continuous blood pressure and cardiact output)
+-->
