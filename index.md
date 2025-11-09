@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Shanshan Chen"
 ---
 
 <div class="page-title-row">
