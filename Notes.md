@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ### [Research](/Research.html) · [Teaching](/Teaching.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Software](/Tools.html) · [Notes](/Notes.html)
 {: .top-nav }
