@@ -8,7 +8,7 @@ title: "Software"
 - #### CircaCP-Shiny App [CircaCP-Shiny: Sleep-Wake Cycle Detection for Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
 
 
-## Other R Shiny Apps for Researchers
+## Other Shiny Apps
 
 - #### [Multiple Sclerosis Severity Score Calculator (MSSS)](https://shanshan-chen.shinyapps.io/msss-calculator/)
 
