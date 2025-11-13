@@ -6,8 +6,11 @@
 
 
 ## Actigraphy analysis
-- #### CircaCP Package and Code [Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP) [R Package](https://github.com/ShanshanChen-Biostat/CircaCP)
-- #### CircaCP-Shiny App [CircaCP-Shiny: Sleep-Wake Cycle Detection for Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
+- #### CircaCP Package
+- [Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP)
+- [R Package](https://cran.r-project.org/web/packages/CircaCP/index.html)
+- #### CircaCP-Shiny App
+- [CircaCP-Shiny: Sleep-Wake Cycle Detection for Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
 
 
 ## Other Shiny Apps
