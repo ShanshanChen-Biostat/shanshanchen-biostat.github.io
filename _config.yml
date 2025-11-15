@@ -1,5 +1,6 @@
 title: Shanshan Chen 
 markdown: kramdown
+repository: ShanshanChen-Biostat/shanshanchen-biostat.github.io
 url: "https://ShanshanChen-Biostat.github.io"
 description: Associate Professor at VCU
 theme: jekyll-theme-primer
@@ -9,6 +10,8 @@ github:
   is_project_page: FALSE
   license: MIT
   repository_url: "https://shanshanchen-biostat.github.io"
+    repository: ShanshanChen-Biostat/shanshanchen-biostat.github.io
+
  
 google_analytics: UA-37790622-1
 google-site-verification: gWoCO0HYyb7EMMOA38puaAJT2u5K0mLfeZkkKUa9VFE
