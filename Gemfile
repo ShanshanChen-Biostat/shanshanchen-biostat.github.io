@@ -3,8 +3,8 @@
 source "https://rubygems.org"
 
 # gemspec
-gem "jekyll", "~> 4.3"
-#gem "jekyll-theme-primer", ">= 0"   # ← add this line
+gem "jekyll", "~> 4.4"
+gem "jekyll-theme-primer", "~> 0.6.0"   # ← add this line
 
 
 # gem 'jekyll-sitemap'
@@ -13,20 +13,19 @@ gem "jekyll", "~> 4.3"
 
 group :jekyll_plugins do
     gem 'classifier-reborn'
-   # gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-imagemagick'
     gem 'jekyll-link-attributes'
-  #  gem 'jekyll-minifier'
+    gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-   # gem 'mini_racer'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
