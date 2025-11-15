@@ -23,6 +23,8 @@ nav:
     url: /Teaching.html
   - title: "Software"
     url: /Tools.html
+  - title: "Notes"
+    url: /Notes.html
 
 plugins:
   - jekyll-sitemap
