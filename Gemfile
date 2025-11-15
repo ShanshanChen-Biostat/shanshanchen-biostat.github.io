@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 # gemspec
 gem "jekyll", "~> 4.3"
+gem "jekyll-theme-primer", ">= 0"   # ← add this line
+
 
 # gem 'jekyll-sitemap'
 # gem "jekyll-feed", "~> 0.12"
