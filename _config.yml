@@ -7,7 +7,7 @@ theme: jekyll-theme-primer
 
 github:
   is_project_page: FALSE
-  license: MIT
+  license: ""
   repository_url: "https://shanshanchen-biostat.github.io"
   repository: "ShanshanChen-Biostat/shanshanchen-biostat.github.io"
 
