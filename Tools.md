@@ -7,10 +7,10 @@
 
 ## Actigraphy analysis
 - #### CircaCP Package
-  - [Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP)
-  - [R Package](https://cran.r-project.org/web/packages/CircaCP/index.html)
+  [Matlab Version](https://github.com/ShanshanChen-Biostat/CircaCP)
+  [R Package](https://cran.r-project.org/web/packages/CircaCP/index.html)
 - #### CircaCP-Shiny App
-  - [CircaCP-Shiny: An Interactive App for Analyzing Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
+  [CircaCP-Shiny: An Interactive App for Analyzing Wearable Activity Data](https://shanshan-chen.shinyapps.io/circacp_r_shiny/)
 
 
 ## Other Shiny Apps
