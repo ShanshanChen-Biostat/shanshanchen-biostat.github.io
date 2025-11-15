@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gemspec
+# gemspec
 gem "jekyll", "~> 4.3"
 
 # gem 'jekyll-sitemap'
