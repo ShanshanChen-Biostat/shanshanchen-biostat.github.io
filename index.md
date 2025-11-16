@@ -10,7 +10,7 @@ layout: default
 
 <img align="left" src="img/Me.png" alt="Me" width = "150" height = "200">
 
-I'm an Associate Professor of [Biostatistics](https://biostatistics.vcu.edu/) at [Virginia Commonwealth University](https://www.vcu.edu/). My work focuses on developing statistical methods and software for data collected from wearable devices, ambient sensors, and real-time monitoring systems, with primary applications in physical activity, sleep, energy metabolism, and behavioral health, among other areas. I am particularly interested in translating high-frequency time-series data into accessbile, interpretable, and reproducible measures that advance clinical and public health research.
+I'm an Associate Professor of [Biostatistics](https://biostatistics.vcu.edu/) at [Virginia Commonwealth University](https://www.vcu.edu/). My work focuses on developing statistical methods and software for data collected from wearable devices, ambient sensors, and real-time monitoring systems, with primary applications in physical activity, sleep, energy metabolism, and behavioral health, among other areas. I am particularly interested in translating high-frequency time-series data into accessible, interpretable, and reproducible measures that advance clinical and public health research.
 
 ## Education
 Ph.D, Electrical Engineering, University of Virginia -- 2013
