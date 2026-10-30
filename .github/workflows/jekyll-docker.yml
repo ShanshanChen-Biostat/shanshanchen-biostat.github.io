@@ -2,19 +2,34 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ "gh-pages" ]
+    branches: ["gh-pages"]
   pull_request:
-    branches: [ "gh-pages" ]
+    branches: ["gh-pages"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.10"
+          bundler-cache: true
+      - name: Build the site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --future --trace
+      - name: Check generated pages and assets
+        run: |
+          for page in index Tools CircaCP PiChange MSSS P-MSSS Research Teaching Notes; do
+            test -s "_site/${page}.html"
+          done
+          test -s _site/assets/css/style.css
+          test -s _site/assets/images/software/pichange-example.png
+
+# Publishing is handled by the repository's existing branch-based GitHub Pages
+# build. Do not deploy a second artifact containing unbuilt Markdown sources.

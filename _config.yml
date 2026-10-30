@@ -1,7 +1,10 @@
-title: Shanshan Chen 
+title: Shanshan Chen
+tagline: Statistical Signal Processing, Wearable Sensing & Digital Health
 markdown: kramdown
 url: "https://shanshanchen-biostat.github.io"
-description: Statistical signal processing, Bayesian time-series, and AI for wearable and digital health sensing data
+baseurl: ""
+repository: ShanshanChen-Biostat/shanshanchen-biostat.github.io
+description: Statistical signal processing and Bayesian time-series methods for wearable sensing and digital health data
 theme: jekyll-theme-primer
 
 
@@ -24,10 +27,6 @@ nav:
   - title: "Software"
     url: /Tools.html
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
 
  
 plugins:
