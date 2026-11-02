@@ -13,9 +13,10 @@ Ph.D, Electrical Engineering, University of Virginia -- 2013
 ## Contact
 schen3 at vcu dot edu
 
-<p class="site-tagline">{{ site.research_methods | escape }}<br>{{ site.research_focus | escape }}</p>
-
 ## Research Areas
+
+<p class="site-tagline">{{ site.research_methods | escape }} · {{ site.research_focus | escape }}</p>
+
 - #### Wearable and real-time sensor analytics
   - Methods for processing data from accelerometers, inertial sensors, and ambient monitoring systems
   - Validation and evaluation of algorithms for wearable-derived measures
