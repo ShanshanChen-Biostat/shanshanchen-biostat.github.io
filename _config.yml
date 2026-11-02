@@ -1,10 +1,12 @@
 title: Shanshan Chen
-tagline: Statistical Signal Processing, Wearable Sensing & Digital Health
+tagline: Associate Professor of Biostatistics
+research_methods: Statistical Signal Processing · Bayesian Methods · Time-Series Analysis
+research_focus: Wearable Sensing · Digital Health
 markdown: kramdown
 url: "https://shanshanchen-biostat.github.io"
 baseurl: ""
 repository: ShanshanChen-Biostat/shanshanchen-biostat.github.io
-description: Statistical signal processing and Bayesian time-series methods for wearable sensing and digital health data
+description: Shanshan Chen is an Associate Professor of Biostatistics specializing in statistical signal processing, Bayesian methods, and time-series analysis for wearable sensing and digital health.
 theme: jekyll-theme-primer
 
 
