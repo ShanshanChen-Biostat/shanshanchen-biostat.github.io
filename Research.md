@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-### [Research](/Research.html) · [Software](/Tools.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Teaching](/Teaching.html) ·  [Notes](/Notes.html)
+### [Home](/) · [Research](/Research.html) · [Software](/Tools.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Teaching](/Teaching.html) ·  [Notes](/Notes.html)
 {: .top-nav }
 
 ---
