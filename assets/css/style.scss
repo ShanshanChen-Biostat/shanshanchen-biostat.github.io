@@ -9,9 +9,27 @@ display: none;
 }
 
 .top-nav {
-  text-align: right;
-  margin-top: 0;
-  margin-bottom: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.top-nav a {
+  padding: 0.45rem 0.8rem;
+  border-radius: 0.65rem;
+  color: #0366d6;
+}
+.top-nav a:hover {
+  background: #f3f6fa;
+  text-decoration: none;
+}
+.top-nav a.is-active {
+  background: #eaf2ff;
+  font-weight: 600;
+}
+.top-nav a:focus-visible {
+  outline: 2px solid #0366d6;
+  outline-offset: 2px;
 }
 
 .footer {

@@ -3,11 +3,6 @@ layout: default
 title: Software
 ---
 
-### [Home](/) · [Research](/Research.html) · [Software](/Tools.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Teaching](/Teaching.html) · [Notes](/Notes.html)
-{: .top-nav }
-
----
-
 ## Software
 
 R packages and interactive applications for actigraphy analysis, change point detection, and multiple sclerosis research.

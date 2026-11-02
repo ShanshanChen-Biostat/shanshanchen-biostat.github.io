@@ -3,11 +3,6 @@ layout: default
 title: Teaching
 ---
 
-### [Home](/) · [Research](/Research.html) · [Software](/Tools.html) · [Publications](https://scholar.google.com/citations?user=x0SyQn8AAAAJ&hl=en) · [Teaching](/Teaching.html) ·  [Notes](/Notes.html)
-{: .top-nav }
-
----
-
 
 ## Courses
 - #### Biostatistical Consulting Section 1  
