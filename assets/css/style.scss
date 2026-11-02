@@ -56,7 +56,10 @@ display: none;
 .calculator-thumbnail:focus-visible { outline: 2px solid #0366d6; outline-offset: 3px; }
 .calculator-label { display: block; margin-bottom: 0.5rem; color: #24292e; font-size: 1.5rem; font-weight: 600; }
 
-.markdown-body .site-name { margin-bottom: 0.4rem; }
+.markdown-body .site-name {
+  margin-bottom: 0.4rem;
+  color: #0366d6;
+}
 .markdown-body .site-tagline {
   margin-top: 0;
   margin-bottom: 1.5rem;
